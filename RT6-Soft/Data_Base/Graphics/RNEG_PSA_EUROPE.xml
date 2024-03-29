@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<conffile>
+   <version value="R00001.00"/>
+   <!-- cache value is YES or NO
+   with cache, change is quick, but memory footprint is high -->
+   <harmony cache="YES" count="5">
+      <!-- harmony objects MUST be the ones found in Hxx folders -->
+      <ha_objects_1 id="TXUR" />
+      <ha_objects_2 id="PALE" />
+      <ha_objects_3 id="TXCO" />
+      <ha_objects_4 id="ACLK" />
+      <ha_objects_5 id="IMAG" />
+   </harmony>
+   <daynight cache="YES" count="1">
+      <!-- daynight objects MUST be the ones found in Dxx folders -->
+      <dn_objects_1 id="RAWD" />
+   </daynight>
+   <resolution count="1">
+      <res_800x480>
+         <gol id="RNEG"/>
+         <memory reserved="24117248"/>
+         <virtual width="800" height="480"/>
+        <foldernames
+           C00="RNEG/COMMON"
+           T00="RNEG/FR"
+           T01="RNEG/EN"
+           T02="RNEG/DE"
+           T03="RNEG/IT"
+           T04="RNEG/ES"
+           T05="RNEG/DU"
+           T06="RNEG/PO"
+           T07="RNEG/SC"
+           T08="RNEG/US"
+           T09="RNEG/TU"
+           T10="RNEG/PL"
+           T11="RNEG/BR"
+           T12="RNEG/RU"
+           T13="RNEG/CZ"
+           T14="RNEG/HR"
+           T15="RNEG/HU"
+           H00="RNEG/HARM00"
+           H01="RNEG/HARM01"
+           H02="RNEG/HARM02"
+           H03="RNEG/HARM03"
+           H04="RNEG/HARM00"
+           H05="RNEG/HARM00"
+           H06="RNEG/HARM00"/>
+        <!-- filterindexes gives the fiter to apply when harmony changes -->
+        <!-- filterindexes
+           H00="0"
+           H01="1" / -->
+      </res_800x480>
+   </resolution>
+</conffile>
+

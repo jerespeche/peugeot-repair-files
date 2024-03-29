@@ -1,0 +1,7 @@
+; Language Configurator File for Loquendo TTS
+
+"Description"		=	"Polish language"
+"BaseLanguage"		=	"Polish"
+"LanguagePath"		=	"languages/Polish"
+;"SpecialLexicon[0]"	=	""
+"Built-in"		=	"Yes"

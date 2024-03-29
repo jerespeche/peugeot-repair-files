@@ -1,0 +1,8 @@
+; Voice Configurator File for Loquendo TTS
+
+"Description" = "Italian female voice"
+"BaseVoice" = "Paola"
+"VoicePath" = "voices/Paola"
+"Built-in" = "Yes"
+"VocalDBName[0]" = "Dummy"
+"VocalAddOn[0]" = "PaolaMM"

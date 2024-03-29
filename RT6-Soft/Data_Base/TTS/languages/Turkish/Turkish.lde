@@ -1,0 +1,10 @@
+; LTTSComponentVersion=7.3.0
+; Language descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"Turkish generic descriptor file"
+"Library"		=	"LTTS7Turkish, Turkish"
+"Language"		=	"Turkish,tr-TR,tr"
+"WinLangid"		=	"1055"
+"LexicalDB"		=	"Turkish.dbe"
+"DefaultVariant"  	= 	"yes"
+"RegExp" 		=	"Turkish.rex"

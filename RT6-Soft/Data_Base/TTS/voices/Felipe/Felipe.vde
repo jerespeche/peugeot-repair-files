@@ -1,0 +1,13 @@
+; LTTSComponentVersion=7.3.1
+; Voice descriptor file for Loquendo TTS
+
+"BaseDescription"       =   "Brazilian male voice"
+"Library"               =   "LTTS7Felipe, Felipe"
+"BaseSpeed"             =   "128"
+"BasePitch"             =   "90"
+"Gender"                =   "Male"
+"Age"                   =   "35"
+"GildedTTS"             =   "yes"
+"MotherTongue"          =   "PortugueseBr"
+"MotherTongueAliases"   =   "PortugueseBr,pt-BR,BR,Brazilian,pt"
+"DemoSentence"          =   "Meu nome é Felipe: sou uma voz masculina de Loquendo, e a minha língua nativa é o português do Brasil."

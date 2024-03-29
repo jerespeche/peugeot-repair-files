@@ -1,0 +1,13 @@
+; LTTSComponentVersion=7.3.0
+; Voice descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"Castilian Spanish male voice"
+"Library"		=	"LTTS7Jorge, Jorge"
+"BaseSpeed"		=	"128"
+"BasePitch"		=	"85"
+"Gender"		=	"Male"
+"Age"			=	"40"
+"GildedTTS"		=	"yes"
+"MotherTongue"		=	"SpanishEs"
+"MotherTongueAliases"	=	"SpanishEs,es-ES,ES,Castilian,es,Spanish"
+"DemoSentence"		=	"Mi nombre es Jorge: soy una voz masculina de Loquendo, y mi lengua nativa es el español de España"

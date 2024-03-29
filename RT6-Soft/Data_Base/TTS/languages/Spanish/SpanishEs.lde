@@ -1,0 +1,10 @@
+; LTTSComponentVersion=7.3.0
+; Language descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"Castilian Spanish generic descriptor file"
+"Library"		=	"LTTS7Spanish, Spanish"
+"Language"		=	"SpanishEs,es-ES,ES,Castilian,es,Spanish"
+"WinLangid"		=	"1034"
+"LexicalDB"		=	"SpanishEs.dbe"
+"DefaultVariant"	=	"yes"
+"Lexicon"		=	"Spanish.lex"

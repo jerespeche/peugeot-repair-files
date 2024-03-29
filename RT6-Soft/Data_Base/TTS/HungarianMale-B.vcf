@@ -1,0 +1,8 @@
+; Voice Configurator File for Loquendo TTS
+
+"Description" = "Hungarian male voice"
+"BaseVoice" = "HungarianMale"
+"VoicePath" = "voices/HungarianMale"
+"Built-in" = "Yes"
+"VocalDBName[0]" = "Dummy"
+"VocalAddOn[0]" = "HungarianMaleMM"

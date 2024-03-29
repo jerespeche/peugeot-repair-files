@@ -1,0 +1,13 @@
+; LTTSComponentVersion=7.3.0
+; Voice descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"Dutch female voice"
+"Library"		=	"LTTS7Saskia, Saskia"
+"BaseSpeed"		=	"128"
+"BasePitch"		=	"170"
+"Gender"		=	"Female"
+"Age"			=	"24"
+"MotherTongue" 		= 	"Dutch"
+"MotherTongueAliases"	=	"Dutch,nl-NL,nl"
+"DemoSentence"		=	"Mijn naam is Saskia: ik ben een van de vrouwelijke stemmen van Loquendo, en mijn moedertaal is Nederlands"
+

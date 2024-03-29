@@ -1,0 +1,12 @@
+; LTTSComponentVersion=7.0.0
+; Voice descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"Czech female voice"
+"Library"		=	"LTTS7Zuzana, Zuzana"
+"BaseSpeed"		=	"128"
+"BasePitch"		=	"150"
+"Gender"		=	"Female"
+"Age"			=	"30"
+"MotherTongue"		=	"Czech"
+"MotherTongueAliases"	=	"Czech,cs-CZ,cs,CZ"
+"DemoSentence"		=	"Zuzana"

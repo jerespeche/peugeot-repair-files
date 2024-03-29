@@ -1,0 +1,13 @@
+; LTTSComponentVersion=7.1.0
+; Voice descriptor file for Loquendo TTS
+
+"BaseDescription"      =  "British English female voice"
+"Library"		     =  "LTTS7Elizabeth, Elizabeth"
+"BaseSpeed"            =  "128"
+"BasePitch"            =  "150"
+"Gender"               =  "Female"
+"Age"                  =  "36"
+"GildedTTS"            =  "yes"
+"MotherTongue"         =  "EnglishGb"
+"MotherTongueAliases"  =  "EnglishGb,en-GB,GB,British,en,English"
+"DemoSentence"         =  "My name is Elizabeth: I'm one of a wide selection of voices from Loquendo, and British English is my mother tongue."

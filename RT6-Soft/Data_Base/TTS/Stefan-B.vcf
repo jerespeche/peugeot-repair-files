@@ -1,0 +1,8 @@
+; Voice Configurator File for Loquendo TTS
+
+"Description" = "German male voice"
+"BaseVoice" = "Stefan"
+"VoicePath" = "voices/Stefan"
+"Built-in" = "Yes"
+"VocalDBName[0]" = "Dummy"
+"VocalAddOn[0]" = "StefanMM"

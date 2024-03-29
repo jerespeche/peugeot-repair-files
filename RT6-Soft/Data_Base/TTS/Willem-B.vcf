@@ -1,0 +1,8 @@
+; Voice Configurator File for Loquendo TTS
+
+"Description" = "Dutch male voice"
+"BaseVoice" = "Willem"
+"VoicePath" = "voices/Willem"
+"Built-in" = "Yes"
+"VocalDBName[0]" = "Dummy"
+"VocalAddOn[0]" = "WillemMM"

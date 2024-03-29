@@ -1,0 +1,346 @@
+kérem, állítsa be a beszéd hangerejét
+hívás folyamatban. Kérem, engedje fel a gombot
+10 yard után
+20 yard után
+30 yard után
+40 yard után
+50 yard után
+60 yard után
+70 yard után
+80 yard után
+90 yard után
+100 yard után
+150 yard után
+200 yard után
+250 yard után
+300 yard után
+350 yard után
+400 yard után
+500 yard után
+600 yard után
+800 yard után
+10 méter után
+20 méter után
+30 méter után
+40 méter után
+50 méter után
+60 méter után
+70 méter után
+80 méter után
+90 méter után
+100 méter után
+150 méter után
+200 méter után
+250 méter után
+300 méter után
+350 méter után
+400 méter után
+500 méter után
+600 méter után
+800 méter után
+1 kilométer után
+1,2 kilométer után
+1,4 kilométer után
+1,6 kilométer után
+1,8 kilométer után
+2 kilométer után
+2,2 kilométer után
+1 mérföld után
+1,2 mérföld után
+1,4 mérföld után
+1,6 mérföld után
+1,8 mérföld után
+2 mérföld után
+2,2 mérföld után
+hajtson ki az első kijáratnál
+hajtson ki a második kijáratnál
+hajtson ki a harmadik kijáratnál
+hajtson ki a negyedik kijáratnál
+hajtson ki az ötödik kijáratnál
+hajtson ki a hatodik kijáratnál
+hajtson ki a hetedik kijáratnál
+hajtson ki a nyolcadik kijáratnál
+hajtson ki a kilencedik kijáratnál
+hajtson ki a tizedik kijáratnál
+hajtson ki a tizenegyedik kijáratnál
+hajtson ki a tizenkettedik kijáratnál
+hajtson ki a tizenharmadik kijáratnál
+hajtson ki a tizennegyedik kijáratnál
+hajtson ki a tizenötödik kijáratnál
+a híd után
+az alagút után
+Ön megérkezett
+az autópályához
+az utca végén
+kövesse a megadott irányt
+forduljon vissza
+a fel-/lehajtón
+a középső sávon
+érkezés a célhoz
+a beszálláshoz
+az útelágazásnál
+majd
+érkezés a közbenső úticélhoz
+kijárat
+a vasútállomáshoz
+haladjon tovább ezen az úton
+a gépjármű parkolóhoz
+a hídon
+hajtson rá a fel-/lehajtóra
+Önnek a középső sávban kell haladnia
+tartson jobbra
+tartson balra
+tartson jobbra
+tartson balra
+következő kijárat
+Ön közel van az úticéljához
+tartson továbbra is jobbra
+tartson továbbra is balra
+maradjon középen
+a körforgalomnál
+ha lehet
+kanyarodjon jobbra
+kanyarodjon balra
+haladjon tovább egyenesen
+az alagútban
+hívás
+folyamatban
+sikerült a név felvétele
+ez a név nem kapcsolódik címhez
+ez a név nem kapcsolódik telefonszámhoz
+a névjegyzék üres
+nem sikerült felvenni a nevet
+kérem, mondja ki a nevet most
+az első felvétel sikerült, kérem, erősítse meg a nevet most
+vezetés ide
+aktiválva
+hogyan?
+felismerés vége
+Nincs
+Nincs
+Hírek
+Hírek
+Magazin
+Magazin
+Információ
+Tájékoztató
+Sport
+Sport
+Oktatás
+Oktatás
+Dráma
+Dráma
+Kultúra
+Kultúra
+Tudomány
+Tudomány
+Változatos
+Szórakozás
+Popzene
+Popzene
+Rockzene
+Rockzene
+Könnyűzene
+Könnyűzene
+Népszerű zene
+Könnyű klasszikus
+Klasszikus
+Klasszikus zene
+Egyéb zene
+Egyéb zene
+Időjárás
+Időjárás
+Gazdaság
+Gazdaság
+Gyerekműsor
+Gyerekműsor
+Társadalom
+Társadalom
+Vallás
+Vallás
+Beszélgetős
+Betelefonálós
+Utazás
+Utazás
+Szabadidő
+Szabadidő
+Dzsessz
+Dzsessz
+Country
+Country zene
+Népzene
+Népzene
+Nosztalgia
+Nosztalgia zene
+Folkzene
+Folkzene
+Dokumentum
+Dokumentum műsor
+TESZT
+TESZT
+Riasztás!
+Riasztás!
+Albumok listája
+CD dalai
+Dal
+Cím nincs megadva
+ALB
+Üres
+Másolás folyamatban...
+Jukebox
+Lejátszási lista
+Műfajok
+Előadók
+Albumok
+Lejátszási listák
+Podcastok
+Összes előadó
+Összes album
+Összes dal
+Nincs információ
+Partíció
+Ismeretlen
+BT STREAMING
+Hangos könyvek
+Minden műfaj
+nulla
+egy
+tíz
+tizenegy
+tizenkettő
+tizenhárom
+tizennégy
+tizenöt
+tizenhat
+tizenhét
+tizennyolc
+tizenkilenc
+kettő
+húsz
+három
+négy
+öt
+hat
+hét
+nyolc
+kilenc
+címjegyzék
+légkondicionálás
+audió
+automatikus tárolás
+hívás
+visszavonás
+CD-lejátszó
+CD-váltó
+törlés
+törlés
+cél
+tárcsázás
+lemezszám
+kijelzés
+mappa
+vezetés ide
+segédlet
+iPod
+jukebox
+lista
+térkép
+memória
+üzenet
+navigátor
+következő
+következő lemez
+következő
+következő szám
+Nem
+szám
+telefon
+plusz
+pozíció
+előző
+előző lemez
+előző
+előző szám
+rádió
+véletlenszerű
+olvasás
+újrahívás
+ismétlés
+újraindítás
+útvonal
+mentés
+keresés
+szolgáltatás
+megjelenítés
+hangüzenet
+stop
+leállítás
+dal száma
+forgalom információk
+fedélzeti számítógép
+USB
+jármű
+mit mondhatok?
+igen
+nagyítás
+kicsinyítés
+*lomtár
+
+Címke felismerve
+Hangutasítások
+
+Nem felismert szó
+Közelben:
+---
+radarok
+veszélyes helyek
+Névjegy
+Français
+English
+English US
+Italiano
+Español
+Portuguès
+Deutsch
+Nederlands
+Türkçe
+Polski
+中文
+Русский
+Português do Brasil
+Čeština
+Hrvatski
+Magyar
+Férfi hang
+Női hang
+frissítve
+mn
+Előkészítés
+Karbantartás folyamatban
+Kérjük, keresse fel a Márkakereskedőjét
+Kérjük, helyezze be a navigációs CD-t
+Kérjük, helyezze be a frissítő CD-t
+A merevlemez túlmelegedett
+A rendszer újraindítása ...
+Ismeretlen hívó
+Konferenciahívás
+Besorolás nélküli
+Jel keresése
+Antennahiba
+Csatornák frissítése
+SIRIUS hívása
+az előfizetéshez
+Érvénytelen csatorna
+Nincs kategória
+Kommunikációs hiba
+Szoftver frissítése
+Nincs TMC üzenet
+Nincs előző úticél
+Nincs névjegy
+Nincs telefonszám
+Nincs rádióállomás
+Nem elérhető lista
+Nincs elérhető médiaforrás
+Üres lista
+hívás
+vezetés

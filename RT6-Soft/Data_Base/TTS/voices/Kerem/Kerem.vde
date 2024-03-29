@@ -1,0 +1,13 @@
+; LTTSComponentVersion=7.1.0
+; Voice descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"Turkish male voice"
+"Library"		=	"LTTS7Kerem, Kerem"
+"BaseSpeed"		=	"128"
+"BasePitch"		=	"100"
+"Gender"		=	"Male"
+"Age"			=	"45"
+"GildedTTS"		=	"yes"
+"MotherTongue"		=	"Turkish"
+"MotherTongueAliases"	=	"Turkish,tr-TR,tr"
+"DemoSentence"		=	"Benim adým Kerem: Loquendo'nun erkek sesiyim, ve anadilim türkçe."

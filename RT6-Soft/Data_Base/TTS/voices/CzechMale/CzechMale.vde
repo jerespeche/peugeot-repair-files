@@ -1,0 +1,12 @@
+; LTTSComponentVersion=7.0.0
+; Voice descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"Czech male voice"
+"Library"		=	"LTTS7CzechMale, CzechMale"
+"BaseSpeed"		=	"128"
+"BasePitch"		=	"125"
+"Gender"		=	"Male"
+"Age"			=	"30"
+"MotherTongue"		=	"Czech"
+"MotherTongueAliases"	=	"Czech,cs-CZ,cs,CZ"
+"DemoSentence"		=	"CzechMale"

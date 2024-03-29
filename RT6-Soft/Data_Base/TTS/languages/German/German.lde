@@ -1,0 +1,12 @@
+; LTTSComponentVersion=7.3.1
+; Language descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"German generic descriptor file"
+"Library"		=	"LTTS7German, German"
+"Language"		=	"German,de,de-DE"
+"WinLangid"		=	"1031"
+"LexicalDB"		=	"German.dbe"
+"DefaultVariant"  	= 	"yes"
+"RegExp"		=	"German.rex"
+"Lexicon"		=	"German.lex"
+"DefaultStyle"		=	"German"

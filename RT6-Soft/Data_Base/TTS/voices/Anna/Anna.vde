@@ -1,0 +1,13 @@
+; LTTSComponentVersion=7.0.0
+; Voice descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"German female voice"
+"Library"		=	"LTTS7Anna, Anna"
+"BaseSpeed"		=	"128"
+"BasePitch"		=	"150"
+"Gender"		=	"Female"
+"Age"			=	"25"
+"GildedTTS"		=	"no"
+"MotherTongue" 		= 	"German"
+"MotherTongueAliases"	=	"German,de-DE,de"
+"DemoSentence"		=	"Ich heiﬂe Anna."

@@ -1,0 +1,8 @@
+; Voice Configurator File for Loquendo TTS
+
+"Description" = "Castilian Spanish male voice"
+"BaseVoice" = "Jorge"
+"VoicePath" = "voices/Jorge"
+"Built-in" = "Yes"
+"VocalDBName[0]" = "Dummy"
+"VocalAddOn[0]" = "JorgeMM"

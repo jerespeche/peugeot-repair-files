@@ -1,0 +1,346 @@
+veuillez régler le volume de la synthèse vocale
+appel pris en compte. Relâchez
+à 10 yards
+à 20 yards
+à 30 yards
+à 40 yards
+à 50 yards
+à 60 yards
+à 70 yards
+à 80 yards
+à 90 yards
+à 100 yards
+à 150 yards
+à 200 yards
+à 250 yards
+à 300 yards
+à 350 yards
+à 400 yards
+à 500 yards
+à 600 yards
+à 800 yards
+à 10 mètres
+à 20 mètres
+à 30 mètres
+à 40 mètres
+à 50 mètres
+à 60 mètres
+à 70 mètres
+à 80 mètres
+à 90 mètres
+à 100 mètres
+à 150 mètres
+à 200 mètres
+à 250 mètres
+à 300 mètres
+à 350 mètres
+à 400 mètres
+à 500 mètres
+à 600 mètres
+à 800 mètres
+à 1 kilomètre
+à 1,2 kilomètre
+à 1,4 kilomètre
+à 1,6 kilomètre
+à 1,8 kilomètre
+à 2 kilomètres
+à 2,2 kilomètres
+à 1 mille
+à 1,2 mille
+à 1,4 mille
+à 1,6 mille
+à 1,8 mille
+à 2 milles
+à 2,2 milles
+prenez la première sortie
+prenez la deuxième sortie
+prenez la troisième sortie
+prenez la quatrième sortie
+prenez la cinquième sortie
+prenez la sixième sortie
+prenez la septième sortie
+prenez la huitième sortie
+prenez la neuvième sortie
+prenez la dixième sortie
+prenez la onzième sortie
+prenez la douzième sortie
+prenez la treizième sortie
+prenez la quatorzième sortie
+prenez la quinzième sortie
+après le pont
+après le tunnel
+vous êtes arrivés
+pour l'autoroute
+au bout de la rue
+suivez le cap indiqué
+faites demi-tour
+sur la contre-allée
+sur la voie centrale
+destination atteinte
+pour l'embarquement
+à l'embranchement
+puis
+étape atteinte
+sortie
+pour la gare
+continuez sur cette route
+pour le parking
+sur le pont
+déplacez vous sur la contre-allée
+vous prendrez la voie centrale
+prenez à droite
+prenez à gauche
+prenez à droite
+prenez à gauche
+prochaine sortie
+vous êtes à proximité de la destination
+restez à droite
+restez à gauche
+restez au milieu
+au rond-point
+si possible
+tournez à droite
+tournez à gauche
+continuez tout droit
+dans le tunnel
+appel vers
+en cours
+le libellé a été correctement enregistré
+ce libellé n'est pas associé à une adresse
+ce libellé n'est pas associé à un numéro de téléphone
+le répertoire est vide
+le libellé n'a pas pu être enregistré
+veuillez énoncer le libellé maintenant
+le premier enregistrement est correct, veuillez confirmer le libellé maintenant
+guidage vers
+activé
+pardon?
+fin de reconnaissance
+Aucun
+Non défini
+Infos
+Informations
+Magazine
+Magazine
+Services
+Info-Service
+Sport
+Sport
+Educatif
+Educatif
+Fiction
+Fiction
+Culture
+Culture
+Sciences
+Sciences
+Divers
+Divertissement
+M Pop
+Musique Pop
+M Rock
+Musique Rock
+Chansons
+Chansons
+M Cl Lég
+Classique Léger
+Classiq
+MusiqueClassique
+Autre M
+Autre Musique
+Météo
+Météo
+Economie
+Economie
+Enfants
+Enfants
+Société
+Société
+Religion
+Religion
+Forum
+Ligne ouverte
+Voyages
+Voyages
+Loisirs
+Loisirs
+Jazz
+Jazz
+Country
+Country
+Ch pays
+Chansons du pays
+Rétro
+Musique rétro
+Folklore
+Folklore
+Document
+Documentaire
+TEST
+TEST
+Alerte !
+Alerte !
+Liste des albums
+Plages du CD
+Plage
+Titre non renseigné
+ALB
+Vide
+Copie en cours...
+Jukebox
+Playlist
+Genres
+Artistes
+Albums
+Playlists
+Podcasts
+Tous les artistes
+Tous les albums
+Toutes les pistes
+Aucune information
+Partition
+Inconnu
+BT STREAMING
+Livres audio
+Tous les genres
+zéro
+un
+dix
+onze
+douze
+treize
+quatorze
+quinze
+seize
+dix sept
+dix huit
+dix neuf
+deux
+vingt
+trois
+quatre
+cinq
+six
+sept
+huit
+neuf
+répertoire
+climatisation
+audio
+autostore
+appeler
+annuler
+lecteur de cd
+changeur
+corriger
+supprimer
+destination
+composer
+disque numéro
+afficher
+répertoire
+guider vers
+aide
+iPod
+jukebox
+liste
+carte
+mémoire
+message
+navigation
+suivant
+disque suivant
+suivant
+plage suivante
+non
+numéro
+téléphone
+plus
+position
+précédent
+disque précédent
+précédent
+plage précédente
+radio
+lecture aléatoire
+lire
+dernier numéro
+répéter
+reprendre
+parcours
+mémoriser
+scan
+service
+voir
+messagerie vocale
+stop
+arrêter
+plage numéro
+info trafic
+ordinateur de bord
+USB
+véhicule
+que puis-je dire ?
+oui
+zoom plus
+zoom moins
+*garbage
+
+Libellé reconnu
+Commandes vocales
+
+Mot non reconnu
+Proche :
+---
+radars
+zones dangereuses
+Libellé
+Français
+English
+English US
+Italiano
+Español
+Portuguès
+Deutsch
+Nederlands
+Türkçe
+Polski
+中文
+Русский
+Português do Brasil
+Čeština
+Hrvatski
+Magyar
+Voix Masculine
+Voix Féminine
+à jour
+mn
+Préparation
+Maintenance en cours
+Veuillez consulter votre concessionnaire
+Veuillez insérer le CD de Navigation
+Veuillez insérer le CD de mise à jour
+Température du Disque Dur trop élevée
+Redémarrage système ...
+Appelant inconnu
+Appel en conférence
+Non classés
+Acquisition du signal
+Problème d'antenne
+Mise à jour des canaux
+Appelez SIRIUS
+pour vous abonner
+Canal invalide
+Aucune catégorie
+Erreur de communication
+Mise à jour du logiciel
+Aucun message TMC
+Aucune dernière destination
+Aucun contact
+Aucun numéro
+Aucune station
+Liste non disponible
+Aucune source media disponible
+Liste vide
+appeler
+guider vers

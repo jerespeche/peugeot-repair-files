@@ -1,0 +1,27 @@
+22
+
+#V21 Updated T84 images
+
+#AVR_img_000.dds = empty V1
+#AVR_img_001.dds = B81   V2
+#AVR_img_002.dds = X72   V3
+#AVR_img_003.dds = A51   V2 from png file
+#AVR_img_004.dds = A58   V1
+#AVR_img_005.dds = T84   V3
+#AVR_img_006.dds = T87   V2 - Idem 2.70
+#AVR_img_007.dds = unused
+#AVR_img_008.dds = unused
+#AVR_img_009.dds = B73M  V1 Mercosur
+
+
+#AVR_img_000.png = empty V1
+#AVR_img_001.png = B81   V1 from V2 DDS
+#AVR_img_002.png = X72   V1 from V3 DDS
+#AVR_img_003.png = A51   V3
+#AVR_img_004.png = A58   V1
+#AVR_img_005.png = T84   V3
+#AVR_img_006.png = T87   V3
+#AVR_img_007.png = A55   V1
+#AVR_img_008.png = A56   -same as A55
+#AVR_img_009.png = B73M  V1 Mercosur
+

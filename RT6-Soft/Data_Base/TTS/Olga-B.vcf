@@ -1,0 +1,8 @@
+; Voice Configurator File for Loquendo TTS
+
+"Description" = "Russian female voice"
+"BaseVoice" = "Olga"
+"VoicePath" = "voices/Olga"
+"Built-in" = "Yes"
+"VocalDBName[0]" = "Dummy"
+"VocalAddOn[0]" = "OlgaMM"

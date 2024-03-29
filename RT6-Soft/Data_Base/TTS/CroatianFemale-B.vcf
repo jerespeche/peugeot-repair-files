@@ -1,0 +1,8 @@
+; Voice Configurator File for Loquendo TTS
+
+"Description" = "Croatian female voice"
+"BaseVoice" = "CroatianFemale"
+"VoicePath" = "voices/CroatianFemale"
+"Built-in" = "Yes"
+"VocalDBName[0]" = "Dummy"
+"VocalAddOn[0]" = "CroatianFemaleMM"

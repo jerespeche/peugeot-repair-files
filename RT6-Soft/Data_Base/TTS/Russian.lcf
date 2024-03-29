@@ -1,0 +1,6 @@
+; Language Configurator File for Loquendo TTS
+
+"Description"		=	"Russian language"
+"BaseLanguage"		=	"Russian"
+"LanguagePath"		=	"languages/Russian"
+"Built-in"		=	"Yes"

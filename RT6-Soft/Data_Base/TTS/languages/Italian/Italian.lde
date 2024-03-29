@@ -1,0 +1,9 @@
+; LTTSComponentVersion=7.13.0
+; Language descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"Italian generic descriptor file"
+"Library"		=	"LTTS7Italian, Italian"
+"Language"		=	"Italian,it,it-IT"
+"WinLangid"		=	"1040"
+"DefaultVariant"  	= 	"yes"
+"Lexicon[0]"		= 	"Italian.lex"

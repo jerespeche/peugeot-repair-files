@@ -1,0 +1,343 @@
+please adjust the volume of the synthesized voice.
+call in progress. Please release the button.
+in 10 yards,
+in 20 yards,
+in 30 yards,
+in 40 yards,
+in 50 yards,
+in 60 yards,
+in 70 yards,
+in 80 yards,
+in 90 yards,
+in 100 yards,
+in one hundred fifty yards,
+in 200 yards,
+in two hundred fifty yards,
+in 300 yards,
+in three hundred fifty yards,
+in 400 yards,
+in 500 yards,
+in 600 yards,
+in 800 yards,
+in 10 meters,
+in 20 meters,
+in 30 meters,
+in 40 meters,
+in 50 meters,
+in 60 meters,
+in 70 meters,
+in 80 meters,
+in 90 meters,
+in 100 meters,
+in one hundred fifty meters,
+in 200 meters,
+in two hundred fifty meters,
+in 300 meters,
+in three hundred fifty meters,
+in 400 meters,
+in 500 meters,
+in 600 meters,
+in 800 meters,
+in 1 kilometer,
+in 1.2 kilometers,
+in 1.4 kilometers,
+in 1.6 kilometers,
+in 1.8 kilometers,
+in 2 kilometers,
+in 2.2 kilometers,
+in 1 mile,
+in 1.2 miles,
+in 1.4 miles,
+in 1.6 miles,
+in 1.8 miles,
+in 2 miles,
+in 2.2 miles,
+take the first exit.
+take the second exit.
+take the third exit.
+take the fourth exit.
+take the fifth exit.
+take the sixth exit.
+take the seventh exit.
+take the eighth exit.
+take the ninth exit.
+take the tenth exit.
+take the eleventh exit.
+take the twelfth exit.
+take the thirteenth exit.
+take the fourteenth exit.
+take the fifteenth exit.
+after the bridge,
+after the tunnel,
+you have arrived.
+take the highway,
+at the end of the street,
+follow the direction indicated.
+do a U-turn.
+on the slip road.
+on the main road.
+destination reached.
+for the ferry,
+at the fork,
+then,
+leg of journey completed.
+exit,
+to the train station,
+continue on this road.
+to the parking lot,
+on the bridge.
+move into the slip road.
+take the center lane.
+bear right.
+bear left.
+take the exit
+take the exit
+next exit,
+you are near your destination.
+keep to the right.
+keep to the left.
+keep to the center.
+at the roundabout,
+if possible,
+turn right.
+turn left.
+continue straight ahead.
+in the tunnel.
+call to,
+in progress.
+the name has been recorded correctly.
+this name is not linked to an address.
+this name is not linked to a telephone number.
+the directory is empty.
+it was not possible to record the name.
+please say the name now.
+the first recording is correct, please confirm the name now.
+guidance to,
+in progress.
+sorry?
+end of recognition.
+None
+None
+News
+News
+Affairs
+Current Affairs
+Info
+Information
+Sport
+Sport
+Educate
+Education
+Drama
+Drama
+Culture
+Cultures
+Science
+Science
+Varied
+Varied Speech
+Pop M
+Pop Music
+Rock M
+Rock Music
+Easy M
+Easy Listening
+Light M
+Light Classics M
+Classics
+Serious Classics
+Other M
+Other Music
+Weather
+Weather & Metr
+Finance
+Finance
+Children
+Children's Progs
+Social
+Social Affairs
+Religion
+Religion
+Phone In
+Phone In
+Travel
+Travel & Touring
+Leisure
+Leisure & Hobby
+Jazz
+Jazz Music
+Country
+Country Music
+Nation M
+National Music
+Oldies
+Oldies Music
+Folk M
+Folk Music
+Document
+Documentary
+TEST
+Alarm Test
+Alarm !
+Alarm - Alarm !
+List of albums
+List of the tracks
+Track
+Title unknown
+ALB
+Empty
+Copying underway...
+Jukebox
+Playlist
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+BT STREAMING
+???
+???
+zero
+one
+ten
+eleven
+twelve
+thirteen
+fourteen
+fifteen
+sixteen
+seventeen
+eighteen
+nineteen
+two
+twenty
+three
+four
+five
+six
+seven
+eight
+nine
+address book
+air conditioning
+audio
+auto store
+call
+cancel
+cd player
+cd changer
+delete
+delete
+destination
+dial
+disk number
+display
+folder
+guide to
+help
+iPod
+jukebox
+list
+map
+memory
+message
+navigator
+next
+next disk
+next
+next track
+no
+number
+telephone
+plus
+position
+previous
+previous disk
+previous
+previous track
+radio
+random
+read
+redial
+repeat
+restart
+route
+save
+scan
+service
+show
+voice mail
+stop
+stop
+track number
+traffic info
+trip computer
+USB
+vehicle
+what can I say ?
+yes
+zoom in
+zoom out
+*garbage
+
+Voice recognised
+Voice commands
+
+Word not recognised
+Near:
+---
+???
+???
+Wording
+Français
+English
+English US
+Italiano
+Español
+Portuguès
+Deutsch
+Nederlands
+Türkçe
+Polski
+中文
+Russian
+Português do Brasil
+Male voice
+Female voice
+up to date
+mn
+Preparation
+Maintenance in progress
+Please stop by your car dealer
+Please insert navigation CD
+Please insert upgrade CD
+Temperature of the Hard Disk too high
+System restarts ...
+Unknown caller
+???
+Unclassified
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???

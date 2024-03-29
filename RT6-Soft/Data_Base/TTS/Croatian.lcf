@@ -1,0 +1,6 @@
+; Language Configurator File for Loquendo TTS
+
+"Description"		=	"Croatian language"
+"BaseLanguage"		=	"Croatian"
+"LanguagePath"		=	"languages/Croatian"
+"Built-in"		=	"Yes"

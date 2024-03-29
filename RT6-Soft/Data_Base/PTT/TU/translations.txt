@@ -1,0 +1,346 @@
+lütfen ses sentezinin sesini ayarlayın
+lütfen ses sentezinin sesini ayarlayın
+10 yarda kadar
+20 yarda kadar
+30 yarda kadar
+40 yarda kadar
+50 yarda kadar
+60 yarda kadar
+70 yarda kadar
+80 yarda kadar
+90 yarda kadar
+100 yarda kadar
+150 yarda kadar
+200 yarda kadar
+250 yarda kadar
+300 yarda kadar
+350 yarda kadar
+400 yarda kadar
+500 yarda kadar
+600 yarda kadar
+800 yarda kadar
+10 metreye kadar
+20 metreye kadar
+30 metreye kadar
+40 metreye kadar
+50 metreye kadar
+60 metreye kadar
+70 metreye kadar
+80 metreye kadar
+90 metreye kadar
+100 metreye kadar
+150 metreye kadar
+200 metreye kadar
+250 metreye kadar
+300 metreye kadar
+350 metreye kadar
+400 metreye kadar
+500 metreye kadar
+600 metreye kadar
+800 metreye kadar
+1 kilometreye kadar
+1,2 kilometreye kadar
+1,4 kilometreye kadar
+1,6 kilometreye kadar
+1,8 kilometreye kadar
+2 kilometreye kadar
+2,2 kilometreye kadar
+1 mile kadar
+1,2 mile kadar
+1,4 mile kadar
+1,6 mile kadar
+1,8 mile kadar
+2 mile kadar
+2.2 mile kadar
+ilk çıkıştan dön
+ikinci çıkıştan dön
+üçüncü çıkıştan dön
+dördüncü çıkıştan dön
+beşinci çıkıştan dön
+altıncı çıkıştan dön
+yedinci çıkıştan dön
+sekizinci çıkıştan dön
+dokuzuncu çıkıştan dön
+onuncu çıkıştan dön
+onbirinci çıkıştan dön
+onikinci çıkıştan dön
+onüçüncü çıkıştan dön
+ondördüncü çıkıştan dön
+onbeşinci çıkıştan dön
+köprüden sonra
+tünelden snra
+Geldiniz
+Otoban için
+caddenin sonunda
+belirtilen yolu izleyin
+U dönüşü yap
+yan yolda
+orta yolda
+ulaşılan varış yeri
+yükleme için
+yol ağzında
+ardından
+ulaşılan etap
+çıkış
+gar için
+bu yolu takip ediniz
+park için
+köprü üzerinde
+yan yola sapınız
+orta yolu takip ediniz
+sağa dönünüz
+sola dönünüz
+sağa dönünüz
+sola dönünüz
+bir sonraki çıkış
+varış yerine yaklaşmak üzeresiniz
+sağda durunuz
+solda durunuz
+ortada durunuz
+ada kavşakta
+mümkünse
+sağa dönünüz
+sola dönünüz
+düz devam ediniz
+tünelde
+mahkemeye çağrı
+devamı
+ifade doğru bir şekilde kaydedildi
+bu ifade bir adres ile bağdaşmadı
+bu ifade bir telefon numarası ile bağdaşmadı
+dizin boş
+ifade kaydedilemedi
+lütfen şimdiki ifadeyi bildiriniz
+İlk ifade doğru, lütfen ifadeyi onaylayınız
+kılavuz
+Etkin
+özür dilerim?
+ifadenin sonu
+Hiçbiri
+belirlenmemiş
+Haber
+Haberler
+Olaylar
+Günlük olaylar
+Konular
+Güncel Konular
+Spor
+Spor
+Eğitim
+Eğitimsel
+Drama
+Radyo oyunları ve diziler
+Kültür
+Ulusal veya bölgesel kültür
+Bilim
+Doğa, bilim ve teknoloji
+Çeşitli
+Hafif eğlence
+Pop M
+Popüler müzik
+Rock M
+Rock müzik
+Kolay M
+Kolay dinlenen
+Hafif kl M
+Hafif klasik müzik
+Klasik
+Klasik müzik
+Diyer M
+Kategorize edilmeyen
+Hava durumu
+Hava raporları/meteorolojik bilgiler
+Maliye
+Maliye
+Çocuklar
+Çocuk programlar
+Sosyal
+Sosyal olaylar
+Din
+Dini programlar
+Forum
+Telefon bağlantısı kurulan programlar
+Seyahat
+Seyahat ve Turizm
+Hobiler
+Hobiler ve rekreasyonel aktiviteler
+Caz
+Caz müziği
+Country
+Kovboy müziği
+Ulusal M
+Ulusal müzik
+Eski
+Eski, altınçağ müzikleri
+Halk M
+Halk müziği
+Belgesel
+Belgesel programlar
+TEST
+Uyarı Testi
+Uyarı !
+Uyarı !
+Repertuarlar listesi
+CD'nin parçaları
+Parça
+Bilgi edinmemiş isim
+ALB
+Boş
+Kopya sürüyor...
+Jukebox
+Çalınacaklar Listesi
+Tür
+Sanatçı
+Albüm
+Çalma listesi
+Podcast
+Tüm sanatçılar
+Tüm albümler
+Tüm şarkılar
+Bilgi yok
+Derecelendirme
+Bilinmiyor
+BT STREAMING
+Sesli kitaplar
+Tüm kategoriler
+zero
+one
+ten
+eleven
+twelve
+thirteen
+fourteen
+fifteen
+sixteen
+seventeen
+eighteen
+nineteen
+two
+twenty
+three
+four
+five
+six
+seven
+eight
+nine
+address book
+air conditioning
+audio
+auto store
+call
+cancel
+cd player
+cd changer
+delete
+delete
+destination
+dial
+disk number
+display
+folder
+guide to
+help
+iPod
+jukebox
+list
+map
+memory
+message
+navigator
+next
+next disk
+next
+next track
+no
+number
+telephone
+plus
+position
+previous
+previous disk
+previous
+previous track
+radio
+random
+read
+redial
+repeat
+restart
+route
+save
+scan
+service
+show
+voice mail
+stop
+stop
+track number
+traffic info
+trip computer
+USB
+vehicle
+what can I say ?
+yes
+zoom in
+zoom out
+*garbage
+
+Voice recognised
+Voice commands
+
+Word not recognised
+Yakında:
+---
+radarlar
+tehlikeli bölgeler
+Kimlik belirtisi
+Français
+English
+English US
+Italiano
+Español
+Portuguès
+Deutsch
+Nederlands
+Türkçe
+Polski
+中文
+Русский
+Português do Brasil
+Čeština
+Hrvatski
+Magyar
+Erkek sesi
+Kadın sesi
+Güncelleştirilmiş
+dk
+Hazırlık
+Bakım sürüyor
+Lütfen temsilcinize danışın
+Navigasyon CD sini yerleştiriniz
+Güncelleştirme CD sini yerleştiriniz
+Harareti azaltmak için sabit disk durduruldu
+Sistem yeniden başlıyor ...
+Bilinmeyen arama
+Konferans araması
+Sınıflandırılmamış
+Sinyal alıyor
+Anten hatası
+Kanalları güncelliyor
+SIRIUS'u ara
+Abonelik için
+Geçersiz kanal
+Kategori yok
+İletişim hatası
+Program güncellemesi
+TMC mesaj yok
+Son varış yeri yok
+Kişi yok
+Numara yok
+İstasyon yok
+Liste mevcut değil
+Medya kaynağı mevcut değil
+Boş liste
+ara
+rehberlik et

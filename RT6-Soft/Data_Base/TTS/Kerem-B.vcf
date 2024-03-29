@@ -1,0 +1,8 @@
+; Voice Configurator File for Loquendo TTS
+
+"Description" = "Turkish male voice"
+"BaseVoice" = "Kerem"
+"VoicePath" = "voices/Kerem"
+"Built-in" = "Yes"
+"VocalDBName[0]" = "Dummy"
+"VocalAddOn[0]" = "KeremMM"

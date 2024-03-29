@@ -1,0 +1,346 @@
+ustaw siłę głosu
+łączenie. Zwolnij przycisk
+za 10 jardów
+za 20 jardów
+za 30 jardów
+za 40 jardów
+za 50 jardów
+za 60 jardów
+za 70 jardów
+za 80 jardów
+za 90 jardów
+za 100 jardów
+za 150 jardów
+za 200 jardów
+za 250 jardów
+za 300 jardów
+za 350 jardów
+za 400 jardów
+za 500 jardów
+za 600 jardów
+za 800 jardów
+za 10 metrów
+za 20 metrów
+za 30 metrów
+za 40 metrów
+za 50 metrów
+za 60 metrów
+za 70 metrów
+za 80 metrów
+za 90 metrów
+za 100 metrów
+za 150 metrów
+za 200 metrów
+za 250 metrów
+za 300 metrów
+za 350 metrów
+za 400 metrów
+za 500 metrów
+za 600 metrów
+za 800 metrów
+za 1 kilometr
+za 1,2 kilometra
+za 1,4 kilometra
+za 1,6 kilometra
+za 1,8 kilometra
+za 2 kilometry
+za 2,2 kilometra
+za 1 milę
+za 1,2 mili
+za 1,4 mili
+za 1,6 mili
+za 1,8 mili
+za 2 mile
+za 2,2 mili
+zjedź pierwszym zjazdem
+zjedź drugim zjazdem
+zjedź trzecim zjazdem
+zjedź czwartym zjazdem
+zjedź piątym zjazdem
+zjedź szóstym zjazdem
+zjedź siódmym zjazdem
+zjedź ósmym zjazdem
+zjedź dziewiątym zjazdem
+zjedź dziesiątym zjazdem
+zjedź jedenastym zjazdem
+zjedź dwunastym zjazdem
+zjedź trzynastym zjazdem
+zjedź czternastym zjazdem
+zjedź piętnastym zjazdem
+za mostem
+za tunelem
+jesteś na miejscu
+na autostradę
+na końcu ulicy
+jedź zgodnie ze wskazanym kierunkiem
+zawróć
+na drogę podrzędną
+na drogę główną
+meta osiągnięta
+na przystań
+na rozwidleniu
+następnie
+etap osiągnięty
+zjazd
+na stację
+jedź tą ulicą
+na parking
+na moście
+zjedź na drogę podrzędną
+trzymaj się środka
+skręć w prawo
+skręć w lewo
+skręć w prawo
+skręć w lewo
+nastepny zjazd
+znajdujesz się w pobliżu celu
+trzymaj się prawej
+trzymaj się lewej
+trzymaj się środka
+na rondzie
+jeżeli to możliwe
+skręć w prawo
+skręć w lewo
+jedź prosto
+w tunelu
+dzwoni do,
+w trakcie.
+nazwa została zapisana.
+ta nazwa nie posiada przypisanego adresu.
+ta nazwa nie posiada przypisanego numeru telefonu.
+lista jest pusta.
+nazwa nie została nagrana.
+powiedz nazwę.
+pierwsze nagranie jest poprawne, zatwierdź nazwę.
+jedź w stronę,
+aktywowana.
+proszę powtórzyć.
+koniec komendy głosowej.
+Brak
+Brak
+Wiadomości
+Wiadomości
+Wydarzenia
+Aktualności
+Info
+Informacje
+Sport
+Sport
+Edukacyjne
+Edukacja
+Dramat
+Dramat
+Kultura
+Kultura
+Nauka
+Nauka
+Różne
+Rozmaitości
+Pop
+Muzyka popowa
+Rock
+Muzyka rockowa
+Łatwa
+Lekka i przyjemna
+Lekka
+Lekka muz. klasyczna
+Klasyczna
+Muzyka poważna
+Inna
+Inna muzyka
+Pogoda
+Pogoda
+Finanse
+Finanse
+Dla dzieci
+Programy dla dzieci
+Społeczne
+Sprawy społeczne
+Religia
+Religia
+Audycja telefoniczna
+Audycja telefoniczna
+Podróże
+Podróże i turystyka
+Czas wolny
+Rozrywka
+Jazz
+Muzyka jazzowa
+Country
+Muzyka country
+Narodowa
+Muzyka narodowa
+Hity
+Stare przeboje
+Folk
+Muzyka folkowa
+Dokument
+Dokumentalne
+TEST
+Test alarmu
+Alarm!
+Alarm — Alarm!
+Lista albumów
+Lista utworów
+Utwór
+Tytuł nieznany
+ALB
+Puste
+Trwa kopiowanie...
+Szafa grająca
+Lista odtwarzania
+Rodzaje
+Artyści
+Albumy
+Playlisty
+Podkasty
+Wszyscy artyści
+Wszystkie albumy
+Wszystkie ścieżki
+Brak informacji
+Partycja
+Nieznany
+BT STREAMING
+Audiobooki
+Wszystkie gatunki
+zero
+one
+ten
+eleven
+twelve
+thirteen
+fourteen
+fifteen
+sixteen
+seventeen
+eighteen
+nineteen
+two
+twenty
+three
+four
+five
+six
+seven
+eight
+nine
+address book
+air conditioning
+audio
+auto store
+call
+cancel
+cd player
+cd changer
+delete
+delete
+destination
+dial
+disk number
+display
+folder
+guide to
+help
+iPod
+jukebox
+list
+map
+memory
+message
+navigator
+next
+next disk
+next
+next track
+no
+number
+telephone
+plus
+position
+previous
+previous disk
+previous
+previous track
+radio
+random
+read
+redial
+repeat
+restart
+route
+save
+scan
+service
+show
+voice mail
+stop
+stop
+track number
+traffic info
+trip computer
+USB
+vehicle
+what can I say ?
+yes
+zoom in
+zoom out
+*garbage
+
+Voice recognised
+Voice commands
+
+Word not recognised
+W pobliżu:
+---
+Radary
+Strefy niebezpieczne
+Wording
+Français
+English
+English US
+Italiano
+Español
+Portuguès
+Deutsch
+Nederlands
+Türkçe
+Polski
+中文
+Русский
+Português do Brasil
+Čeština
+Hrvatski
+Magyar
+Głos męski
+Głos żeński
+Aktualizacja
+mn
+Przygotowanie
+Konserwacja w toku
+Proszę zwrócić się do przedstawiciela sprzedawcy
+Proszę włożyć płytę CD Nawigacja
+Proszę włożyć CD z aktualizacją
+Zbyt wysoka temperatura twardego dysku
+System restartu ...
+Numer nieznany
+Połączenie konferencyjne
+Niesklasyfikowane
+Odbiór sygnału
+Problem z anteną
+Aktualizacja kanałów
+Zadzwoń do SIRIUS
+po abonament
+Nieważny kanał
+Brak kategorii
+Błąd połączenia
+Aktualizacja oprogramowania
+Brak wiadomości TMC
+Brak ostatniego kierunku
+Brak kontaktu
+Brak numeru
+Brak stacji
+Lista niedostępna
+Brak dostępnego źródła mediów
+Lista pusta
+dzwo?
+Poprowadzić w kierunku

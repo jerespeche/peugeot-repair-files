@@ -1,0 +1,13 @@
+; LTTSComponentVersion=7.1.0
+; Voice descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"Turkish female voice"
+"Library"		=	"LTTS7Selin, Selin"
+"BaseSpeed"		=	"128"
+"BasePitch"		=	"190"
+"Gender"		=	"Female"
+"Age"			=	"35"
+"GildedTTS"		=	"yes"
+"MotherTongue"		=	"Turkish"
+"MotherTongueAliases"	=	"Turkish,tr-TR,tr"
+"DemoSentence"		=	"Benim adým Selin: Loquendo'nun kadýn sesiyim, ve anadilim türkçe."

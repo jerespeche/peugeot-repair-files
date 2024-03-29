@@ -1,0 +1,8 @@
+; LTTSComponentVersion=7.0.0
+; Language descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"Hungarian generic descriptor file"
+"Library"		=	"LTTS7Hungarian, Hungarian"
+"Language"		=	"Hungarian,hu,hu-HU"
+"WinLangid"		=	"1038"
+"DefaultVariant"  	= 	"yes"

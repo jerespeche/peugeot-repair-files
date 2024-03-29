@@ -1,0 +1,13 @@
+; LTTSComponentVersion=7.3.0
+; Voice descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"Portuguese female voice"
+"Library"		=	"LTTS7Amalia, Amalia"
+"BaseSpeed"		=	"128"
+"BasePitch"		=	"150"
+"Gender"		=	"Female"
+"Age"			=	"37"
+"GildedTTS"		=	"yes"
+"MotherTongue"		=	"PortuguesePt"
+"MotherTongueAliases"	=	"PortuguesePt,pt-PT,PT,Portuguese,pt"
+"DemoSentence"		=	"O meu nome é Amália: sou uma voz feminina de Loquendo, e a minha língua nativa é o português de Portugal"

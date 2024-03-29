@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<conffile>
+   <version value="000001.00"/>
+   <imagessets directory="/H/MAPPE/JV"/>
+   <steeringcases count="9">
+      <steering_1>
+         <steeringcase description="Right Exit" ID="RE"/>
+         <coefficients
+            NL="1" 
+            NLA="2" 
+            NA="3" 
+            NAR="256" 
+            NR="512"/>
+      </steering_1>
+      <steering_2>
+         <steeringcase description="Left Exit" ID="LE"/>
+         <coefficients
+            NL="512" 
+            NLA="256" 
+            NA="3" 
+            NAR="2" 
+            NR="1"/>
+      </steering_2>
+      <steering_3>
+         <steeringcase description="Right Separation" ID="RS"/>
+         <coefficients
+            NL="3" 
+            NLA="1" 
+            NA="2" 
+            NAR="256" 
+            NR="512"/>
+      </steering_3>
+      <steering_4>
+         <steeringcase description="Left Separation" ID="LS"/>
+         <coefficients
+            NL="512" 
+            NLA="256" 
+            NA="1" 
+            NAR="1" 
+            NR="3"/>
+      </steering_4>
+      <steering_5>
+         <steeringcase description="Ahead Separation Simple Right" ID="AR"/>
+         <coefficients
+            NL="2" 
+            NLA="1" 
+            NA="512" 
+            NAR="256" 
+            NR="3"/>
+      </steering_5>
+      <steering_6>
+         <steeringcase description="Ahead Separation Simple Left" ID="AL"/>
+         <coefficients
+            NL="3" 
+            NLA="256" 
+            NA="512" 
+            NAR="1" 
+            NR="2"/>
+      </steering_6>
+      <steering_7>
+         <steeringcase description="Ahead Separation Double" ID="AD"/>
+         <coefficients
+            NL="1" 
+            NLA="256" 
+            NA="512" 
+            NAR="257" 
+            NR="2"/>
+      </steering_7>
+      <steering_8>
+         <steeringcase description="Ahead Separation Right" ID="DR"/>
+         <coefficients
+            NL="1" 
+            NLA="2" 
+            NA="3" 
+            NAR="256" 
+            NR="512"/>
+      </steering_8>
+      <steering_9>
+         <steeringcase description="Double Separation Left" ID="DL"/>
+         <coefficients
+            NL="512" 
+            NLA="256" 
+            NA="3" 
+            NAR="2" 
+            NR="1"/>
+      </steering_9>
+   </steeringcases>
+</conffile>
+   
+   

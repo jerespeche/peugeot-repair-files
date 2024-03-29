@@ -1,0 +1,7 @@
+; Language Configurator File for Loquendo TTS
+
+"Description"		=	"British English language"
+"BaseLanguage"	=	"EnglishGb"
+"LanguagePath"	=	"languages/English"
+;"SpecialLexicon[0]"	=	""
+"Built-in"			=	"Yes"

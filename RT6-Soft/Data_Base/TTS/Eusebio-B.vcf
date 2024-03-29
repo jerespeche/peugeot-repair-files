@@ -1,0 +1,8 @@
+; Voice Configurator File for Loquendo TTS
+
+"Description" = "Portuguese male voice"
+"BaseVoice" = "Eusebio"
+"VoicePath" = "voices/Eusebio"
+"Built-in" = "Yes"
+"VocalDBName[0]" = "Dummy"
+"VocalAddOn[0]" = "EusebioMM"

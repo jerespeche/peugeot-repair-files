@@ -1,0 +1,7 @@
+; Language Configurator File for Loquendo TTS
+
+"Description"		=	"German language"
+"BaseLanguage"		=	"German"
+"LanguagePath"		=	"languages/German"
+;"SpecialLexicon[0]"	=	""
+"Built-in"			=	"Yes"

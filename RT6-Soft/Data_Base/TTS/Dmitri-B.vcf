@@ -1,0 +1,8 @@
+; Voice Configurator File for Loquendo TTS
+
+"Description" = "Russian male voice"
+"BaseVoice" = "Dmitri"
+"VoicePath" = "voices/Dmitri"
+"Built-in" = "Yes"
+"VocalDBName[0]" = "Dummy"
+"VocalAddOn[0]" = "DmitriMM"

@@ -1,0 +1,8 @@
+; Voice Configurator File for Loquendo TTS
+
+"Description" = "British English female voice"
+"BaseVoice" = "Elizabeth"
+"VoicePath" = "voices/Elizabeth"
+"Built-in" = "Yes"
+"VocalDBName[0]" = "Dummy"
+"VocalAddOn[0]" = "ElizabethMM"

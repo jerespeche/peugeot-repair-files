@@ -1,0 +1,8 @@
+; Voice Configurator File for Loquendo TTS
+
+"Description" = "German female voice"
+"BaseVoice" = "Anna"
+"VoicePath" = "voices/Anna"
+"Built-in" = "Yes"
+"VocalDBName[0]" = "Dummy"
+"VocalAddOn[0]" = "AnnaMM"

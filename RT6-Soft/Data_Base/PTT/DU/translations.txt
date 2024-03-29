@@ -1,0 +1,346 @@
+pas het volume van de spraaksynthese aan
+oproep geaccepteerd. Loslaten
+na 10 yards
+na 20 yards
+na 30 yards
+na 40 yards
+na 50 yards
+na 60 yards
+na 70 yards
+na 80 yards
+na 90 yards
+na 100 yards
+na 150 yards
+na 200 yards
+na 250 yards
+na 300 yards
+na 350 yards
+na 400 yards
+na 500 yards
+na 600 yards
+na 800 yards
+na 10 meter
+na 20 meter
+na 30 meter
+na 40 meter
+na 50 meter
+na 60 meter
+na 70 meter
+na 80 meter
+na 90 meter
+na 100 meter
+na 150 meter
+na 200 meter
+na 250 meter
+na 300 meter
+na 350 meter
+na 400 meter
+na 500 meter
+na 600 meter
+na 800 meter
+na 1 kilometer
+na 1,2 kilometer
+na 1,4 kilometer
+na 1,6 kilometer
+na 1,8 kilometer
+na 2 kilometer
+na 2,2 kilometer
+na 1 mijl
+na 1,2 mijl
+na 1,4 mijl
+na 1,6 mijl
+na 1,8 mijl
+na 2 mijl
+na 2,2 mijl
+neem de eerste afrit
+neem de tweede afrit
+neem de derde afrit
+neem de vierde afrit
+neem de vijfde afrit
+neem de zesde afrit
+neem de zevende afrit
+neem de achtste afrit
+neem de negende afrit
+neem de tiende afrit
+neem de elfde afrit
+neem de twaalfde afrit
+neem de dertiende afrit
+neem de veertiende afrit
+neem de vijftiende afrit
+na de brug
+na de tunnel
+U bent gearriveerd
+naar de autosnelweg
+aan het eind van de straat
+volg de aangegeven richting
+keer om
+op de parallelbaan
+op de middelste baan
+bestemming bereikt
+naar de veerboot
+bij de splitsing
+vervolgens
+etappe bereikt
+afrit
+naar het station
+blijf deze weg volgen
+naar het parkeerterrein
+op de brug
+de parallelbaan oprijden
+neemt u de middelste baan
+houd rechts aan
+houd links aan
+houd rechts aan
+houd links aan
+volgende afrit
+U bent in de nabijheid van de bestemming
+blijf rechts rijden
+blijf links rijden
+blijf in het midden rijden
+op de rotonde
+indien mogelijk
+sla rechtsaf
+sla linksaf
+ga rechtdoor
+in de tunnel
+oproep naar
+bezig
+de omschrijving is correct opgeslagen
+deze omschrijving is niet gekoppeld aan een adres
+deze omschrijving is niet gekoppeld aan een telefoonnummer
+de index is leeg
+de omschrijving kon niet worden opgeslagen
+spreek de omschrijving nu uit
+de eerste opname is gelukt. Spreek de omschrijving ter bevestiging nogmaals in
+navigatie naar
+bezig
+pardon?
+einde spraakherkenning
+geen
+niet bepaald
+Nieuws
+Nieuws
+Actueel
+Actualiteit
+Info
+Informatie
+Sport
+Sport
+Educat.
+Educatie
+Drama
+Drama
+Cultuur
+Cultuur
+Wetensch
+Wetenschap
+Varia
+Varia
+Pop
+Popmuziek
+Rock
+Rockmuziek
+Melodie
+Melodie
+Licht Kl
+Licht klassiek
+Klassiek
+Klassieke muziek
+Muziek
+Muziek
+Het weer
+Het weer
+Economie
+Economie
+Kinderen
+Voor kinderen
+Maatsch.
+Maatschappelijk
+Religie
+Religie
+Doe mee
+Doe mee !
+Reizen
+Reizen
+Vrije T.
+Vrije tijd
+Jazz
+Jazz
+Country
+Countrymuziek
+Eigen M
+Nationale muziek
+Goud
+Gouwe ouwe
+Folk
+Volksmuziek
+Document
+Documentaires
+Test
+Alarmtest
+Alarm
+Alarm ! ALARM   !
+Lijst albums
+Lijst tracks
+Track
+Onbekende titel
+ALB
+Leeg
+Wordt gekopieerd...
+Jukebox
+Playlist
+Genres
+Artiesten
+Albums
+Playlists
+Podcasts
+Alle artiesten
+Alle albums
+Alle tracks
+Geen informatie
+Partitie
+Onbekend
+BT STREAMING
+Luisterboeken
+Alle genres
+nul
+één
+tien
+elf
+twaalf
+dertien
+veertien
+vijftien
+zestien
+zeventien
+achttien
+negentien
+twee
+twintig
+drie
+vier
+vijf
+zes
+zeven
+acht
+negen
+telefoonboek
+airconditioning
+audio
+automatisch bewaren
+opbellen
+cancel
+cd speler
+cd wisselaar
+wissen
+verwijderen
+bestemming
+kiezen
+cd nummer
+weergeven
+folder
+brengen naar
+help
+iPod
+jukebox
+lijst
+kaart
+geheugen
+bericht
+navigator
+volgend
+volgende cd
+volgend
+volgend nummer
+nee
+nummer
+telefoon
+plus
+positie
+vorig
+vorige cd
+vorige
+vorig nummer
+radio
+random
+lezen
+opnieuw opbellen
+herhalen
+hervatten
+route
+opslaan
+scannen
+service
+weergeven
+voicemail
+stop
+stop
+nummer
+verkeersinformatie
+trip computer
+USB
+voertuig
+wat kan ik zeggen ?
+ja
+inzoomen
+uitzoomen
+*garbage
+
+Omschrijving herkend
+Stemcommando's
+
+Woord niet bekend
+In de buurt:
+---
+radars
+Gevaarlijke zones
+Omschrijving
+Français
+English
+English US
+Italiano
+Español
+Portuguès
+Deutsch
+Nederlands
+Türkçe
+Polski
+中文
+Русский
+Português do Brasil
+Čeština
+Hrvatski
+Magyar
+Mannelijke stem
+Vrouwelijke stem
+tot datum
+mn
+Voorbereiding
+Onderhoud in uitvoering
+Stop alstublieft bij uw dealer
+Plaats de navigatiecd
+Plaats de updatecd
+Temperatuur Harde Schijf te hoog
+Systeem start opnieuw ...
+Onbekende bezoeker
+Conference call
+Niet geclassificeerd
+Signaal verwerven
+Antennefout
+Update kanalen
+Bel SIRIUS
+om u te abonneren
+Ongeldig kanaal
+Geen categorie
+Communicatiefout
+Update firmware
+Geen enkel TMC-bericht
+Geen enkele laatste bestemming
+Geen enkel contact
+Geen enkel nummer
+Geen enkel station
+Lijst niet beschikbaar
+Geen enkele mediabron beschikbaar
+Lege lijst
+bellen
+brengen naar

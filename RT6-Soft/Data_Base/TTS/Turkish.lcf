@@ -1,0 +1,6 @@
+; Language Configurator File for Loquendo TTS
+
+"Description"		=	"Turkish language"
+"BaseLanguage"		=	"Turkish"
+"LanguagePath"		=	"languages/Turkish"
+"Built-in"		=	"Yes"

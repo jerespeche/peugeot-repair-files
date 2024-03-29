@@ -1,0 +1,8 @@
+; Voice Configurator File for Loquendo TTS
+
+"Description" = "French male voice"
+"BaseVoice" = "Bernard"
+"VoicePath" = "voices/Bernard"
+"Built-in" = "Yes"
+"VocalDBName[0]" = "Dummy"
+"VocalAddOn[0]" = "BernardMM"

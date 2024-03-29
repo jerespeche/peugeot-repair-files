@@ -1,0 +1,6 @@
+; Language Configurator File for Loquendo TTS
+
+"Description"		=	"Czech language"
+"BaseLanguage"		=	"Czech"
+"LanguagePath"		=	"languages/Czech"
+"Built-in"		=	"Yes"

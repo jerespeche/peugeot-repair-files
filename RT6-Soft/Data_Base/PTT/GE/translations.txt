@@ -1,0 +1,346 @@
+bitte stellen Sie die Lautstärke der Sprachausgabe ein
+Anruf registriert. Bitte Taste loslassen
+nach 10 Yards
+nach 20 Yards
+nach 30 Yards
+nach 40 Yards
+nach 50 Yards
+nach 60 Yards
+nach 70 Yards
+nach 80 Yards
+nach 90 Yards
+nach 100 Yards
+nach 150 Yards
+nach 200 Yards
+nach 250 Yards
+nach 300 Yards
+nach 350 Yards
+nach 400 Yards
+nach 500 Yards
+nach 600 Yards
+nach 800 Yards
+nach 10 Metern
+nach 20 Metern
+nach 30 Metern
+nach 40 Metern
+nach 50 Metern
+nach 60 Metern
+nach 70 Metern
+nach 80 Metern
+nach 90 Metern
+nach 100 Metern
+nach 150 Metern
+nach 200 Metern
+nach 250 Metern
+nach 300 Metern
+nach 350 Metern
+nach 400 Metern
+nach 500 Metern
+nach 600 Metern
+nach 800 Metern
+nach 1 Kilometer
+nach 1,2 Kilometern
+nach 1,4 Kilometern
+nach 1,6 Kilometern
+nach 1,8 Kilometern
+nach 2 Kilometern
+nach 2,2 Kilometern
+nach 1 Meile
+nach 1,2 Meilen
+nach 1,4 Meilen
+nach 1,6 Meilen
+nach 1,8 Meilen
+nach 2 Meilen
+nach 2,2 Meilen
+nehmen Sie die erste Ausfahrt
+nehmen Sie die zweite Ausfahrt
+nehmen Sie die dritte Ausfahrt
+nehmen Sie die vierte Ausfahrt
+nehmen Sie die fünfte Ausfahrt
+nehmen Sie die sechste Ausfahrt
+nehmen Sie die siebte Ausfahrt
+nehmen Sie die achte Ausfahrt
+nehmen Sie die neunte Ausfahrt
+nehmen Sie die zehnte Ausfahrt
+nehmen Sie die elfte Ausfahrt
+nehmen Sie die zwölfte Ausfahrt
+nehmen Sie die dreizehnte Ausfahrt
+nehmen Sie die vierzehnte Ausfahrt
+nehmen Sie die fünfzehnte Ausfahrt
+nach der Brücke
+nach dem Tunnel
+Sie sind am Ziel
+zur Autobahn
+am Ende der Straße
+folgen Sie dem Richtungspfeil
+bitte umdrehen
+auf der Nebenfahrbahn
+auf der mittleren Spur
+Ziel erreicht
+zur Fähre
+an der Abzweigung
+dann
+Etappe erreicht
+Ausfahrt
+zum Bahnhof
+auf dieser Straße geradeaus weiterfahren
+zum Parkplatz
+auf der Brücke
+wechseln Sie auf die Nebenfahrbahn
+nehmen Sie die mittlere Spur
+rechts fahren
+links fahren
+rechts fahren
+links fahren
+nächste Ausfahrt
+Sie nähern sich dem Ziel
+rechts halten
+links halten
+in der mittleren Spur bleiben
+im Kreisverkehr
+wenn möglich
+rechts abbiegen
+links abbiegen
+geradeaus weiterfahren
+im Tunnel
+Anruf
+läuft
+der Text wurde korrekt gespeichert
+dieser Text ist keiner Adresse zugeordnet
+dieser Text ist keiner Telefonnummer zugeordnet
+das Verzeichnis enthält keinen Eintrag
+der Text konnte nicht gespeichert werden
+bitte den Text jetzt sagen
+die erste Aufnahme ist korrekt, bitte den Text jetzt bestätigen
+Routenführung nach
+aktiviert
+wie bitte?
+Ende der Spracherkennung
+Kein PTY
+Kein PTY
+Nachrich
+Nachrichten
+Aktuell
+Aktuelle Info
+Service
+Service Programm
+Sport
+Sport
+Bildung
+Bildung
+Hör+Lit
+Hörspiel + Lit
+Kultur
+Kultur+Gesellsch
+Wissen
+Wissenschaft
+Unterh
+Unterhaltung
+Pop
+Pop Musik
+Rock
+Rock Musik
+U-Musik
+Unterhalt Musik
+L-Musik
+Leichte Klassik
+E-Musik
+Ernste Klassik
+--Musik
+Spezielle Musik
+Wetter
+Wetter
+Wirtsch
+Wirtschaft
+Kinder
+Kinderprogramm
+Soziales
+Soziales
+Religion
+Religion
+Anruf
+Anrufsendung
+Reise
+Reiseinformation
+Freizeit
+Freizeit
+Jazz
+Jazz
+Country
+Country Musik
+Landes M
+Landesmusik
+Oldies
+Oldies Musik
+Folklore
+Folklore
+Feature
+Feature
+Test
+Alarm Test
+Alarm!
+Alarm! Alarm!
+Albumliste
+Titel
+Titel
+Unbekannter Titel
+ALB
+Leer
+Kopieren läuft...
+Jukebox
+Playlist
+Kategorien
+Künstler
+Alben
+Titellisten
+Podcasts
+Alle Künstler
+Alle Alben
+Alle Titel
+Keine Information
+Partition
+Unbekannt
+BT-STREAMING
+Hörbücher
+Alle Kategorien
+null
+eins
+zehn
+elf
+zwölf
+dreizehn
+vierzehn
+fünfzehn
+sechzehn
+siebzehn
+achtzehn
+neunzehn
+zwei
+zwanzig
+drei
+vier
+fünf
+sechs
+sieben
+acht
+neun
+adressbuch
+klimaanlage
+audio
+automatische Senderspeicherung
+anrufen
+storno
+cd spieler
+cd wechsler
+löschen
+löschen
+ziel
+wählen
+CD nummer
+zeigen
+verzeichnis
+führen nach
+hilfe
+iPod
+jukebox
+liste
+karte
+speicher
+nachricht
+navigation
+nächster
+nächste CD
+nächster
+nächster titel
+nein
+nummer
+telefon
+plus
+position
+vorige
+vorige CD
+vorige
+vorheriger titel
+radio
+random
+lesen
+wiederholen
+wiederholen
+weiterführen
+route
+speichern
+schnelldurchlauf
+service
+sehen
+Mailbox
+stop
+stop
+titel nummer
+verkehrsinformation
+bordcomputer
+USB
+fahrzeug
+was kann ich sagen ?
+ja
+zoomen
+aufziehen
+*garbage
+
+Bezeichnung erkannt
+Sprachbefehle
+
+Wort nicht erkannt
+Nahe bei:
+---
+Radar
+Gefahrenzonen
+Bezeichnung
+Français
+English
+English US
+Italiano
+Español
+Portuguès
+Deutsch
+Nederlands
+Türkçe
+Polski
+中文
+Русский
+Português do Brasil
+Čeština
+Hrvatski
+Magyar
+Männliche Stimme
+Weibliche Stimme
+aktualisiert
+mn
+Vorbereitung
+In Bearbeitung
+Bitte mit dem Autohändler sich in Verbindung setzten
+Setzen Sie bitte Navigation CD ein
+Setzen Sie bitte Aufsteigen CD ein
+Temperatur von die Festplatte zu hoch
+System neu starten ...
+Unbekannt
+Konferenzschaltung
+Nicht klassifiziert
+Signalerfassung
+Antennenfehler
+Kanal-Aktualisierung
+Für Abonnement
+SIRIUS anrufen
+Kanal ungültig
+Keine Kategorie
+Datenübertragungsfehler
+Firmware-Update
+Keine TMC-Meldung
+Kein Endziel
+Kein Kontakt
+Keine Nummer
+Keine Station
+Liste nicht verfügbar
+Kein Quelldatenträger verfügbar
+Liste ist leer
+anrufen
+führen nach

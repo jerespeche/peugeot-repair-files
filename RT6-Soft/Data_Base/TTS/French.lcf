@@ -1,0 +1,6 @@
+; Language Configurator File for Loquendo TTS
+
+"Description"		=	"French language"
+"BaseLanguage"		=	"French"
+"LanguagePath"		=	"languages/French"
+"Built-in"			=	"Yes"

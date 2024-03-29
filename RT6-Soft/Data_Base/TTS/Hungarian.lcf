@@ -1,0 +1,6 @@
+; Language Configurator File for Loquendo TTS
+
+"Description"		=	"Hungarian language"
+"BaseLanguage"		=	"Hungarian"
+"LanguagePath"		=	"languages/Hungarian"
+"Built-in"		=	"Yes"

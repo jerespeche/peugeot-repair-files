@@ -1,0 +1,9 @@
+; LTTSComponentVersion=7.3.0
+; Language descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"Chinese generic descriptor file"
+"Library"		=	"LTTS7Chinese, Chinese"
+"Language"		=	"Chinese,zh,zh-CN,Mandarin"
+"WinLangid"		=	"1028"
+"PhoneticDictionary"	=	"Chinese.phd"
+"DefaultVariant"  	= 	"yes"

@@ -1,0 +1,13 @@
+; LTTSComponentVersion=7.3.0
+; Voice descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"Castilian Spanish female voice"
+"Library"		=	"LTTS7Carmen, Carmen"
+"BaseSpeed"		=	"128"
+"BasePitch"		=	"140"
+"Gender"		=	"Female"
+"Age"			=	"31"
+"GildedTTS"		=	"yes"
+"MotherTongue" 		= 	"SpanishEs"
+"MotherTongueAliases"	=	"SpanishEs,es-ES,ES,Castilian,es,Spanish"
+"DemoSentence"		=	"Mi nombre es Carmen: soy una voz femenina de Loquendo, y mi lengua nativa es el español de España"

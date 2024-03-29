@@ -1,0 +1,8 @@
+; Voice Configurator File for Loquendo TTS
+
+"Description" = "Czech male voice"
+"BaseVoice" = "CzechMale"
+"VoicePath" = "voices/CzechMale"
+"Built-in" = "Yes"
+"VocalDBName[0]" = "Dummy"
+"VocalAddOn[0]" = "CzechMaleMM"

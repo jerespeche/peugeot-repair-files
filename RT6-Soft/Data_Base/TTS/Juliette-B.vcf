@@ -1,0 +1,8 @@
+; Voice Configurator File for Loquendo TTS
+
+"Description" = "French female voice"
+"BaseVoice" = "Juliette"
+"VoicePath" = "voices/Juliette"
+"Built-in" = "Yes"
+"VocalDBName[0]" = "Dummy"
+"VocalAddOn[0]" = "JulietteMM"

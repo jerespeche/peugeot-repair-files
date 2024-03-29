@@ -1,0 +1,346 @@
+regolare il volume del sintetizzatore vocale
+chiamata considerata. Rilasciare il pulsante
+a 10 yarde
+a 20 yarde
+a 30 yarde
+a 40 yarde
+a 50 yarde
+a 60 yarde
+a 70 yarde
+a 80 yarde
+a 90 yarde
+a 100 yarde
+a 150 yarde
+a 200 yarde
+a 250 yarde
+a 300 yarde
+a 350 yarde
+a 400 yarde
+a 500 yarde
+a 600 yarde
+a 800 yarde
+a 10 metri
+a 20 metri
+a 30 metri
+a 40 metri
+a 50 metri
+a 60 metri
+a 70 metri
+a 80 metri
+a 90 metri
+a 100 metri
+a 150 metri
+a 200 metri
+a 250 metri
+a 300 metri
+a 350 metri
+a 400 metri
+a 500 metri
+a 600 metri
+a 800 metri
+a 1 chilometro
+a 1,2 chilometri
+a 1,4 chilometri
+a 1,6 chilometri
+a 1,8 chilometri
+a 2 chilometri
+a 2,2 chilometri
+a 1 miglio
+a 1,2 miglia
+a 1,4 miglia
+a 1,6 miglia
+a 1,8 miglia
+a 2 miglia
+a 2,2  miglia
+prendere la prima uscita
+prendere la seconda uscita
+prendere la terza uscita
+prendere la quarta uscita
+prendere la quinta uscita
+prendere la sesta uscita
+prendere la settima uscita
+prendere l'ottava uscita
+prendere la nona uscita
+prendere la decima uscita
+prendere l'undicesima uscita
+prendere la dodicesima uscita
+prendere la tredicesima uscita
+prendere la quattordicesima uscita
+prendere la quindicesima uscita
+dopo il ponte
+dopo la galleria
+siete arrivati
+per l'autostrada
+alla fine della strada
+seguire la direzione indicata
+effettuare inversione ad U
+sul controviale
+sulla carreggiata centrale
+destinazione raggiunta
+per l'imbarco
+alla biforcazione
+poi
+tappa raggiunta
+uscita
+per la stazione
+proseguire su questa strada
+per il parcheggio
+sul ponte
+portarsi sul controviale
+prendere la corsia centrale
+prendere a destra
+prendere a sinistra
+prendere a destra
+prendere a sinistra
+prossima uscita
+siete in prossimità della destinazione
+tenersi a destra
+tenersi a sinistra
+tenersi al centro
+alla rotonda
+se possibile
+svoltare a destra
+svoltare a sinistra
+proseguire diritto
+nella galleria
+chiamata verso
+in corso
+il nome é stato correttamente registrato
+questo nome non è associato ad un indirizzo
+questo nome non è associato ad un numero telefonico
+l'elenco è vuoto
+il nome non è stato registrato
+pronunciare ora il nome
+la prima registrazione è corretta, ora confermare il nome
+guida verso
+attivata
+prego?
+fine del riconoscimento vocale
+Nessuno
+Nessuno
+Notizie
+Notizie
+Info
+Informazioni
+Servizi
+Servizi
+Sport
+Sport
+Istruz.
+Istruzione
+Fiction
+Fiction
+Cultura
+Cultura
+Scienza
+Scienza
+Divert.
+Divertimento
+Pop
+Musica Pop
+Rock
+Musica Rock
+Canzoni
+Canzoni
+Cl Legg.
+Classica Leggera
+Classica
+Classica
+Altra M
+Altra Musica
+Meteo
+Meteo
+Economia
+Economia
+Bambini
+Bambini
+Società
+Società
+Relig.
+Religione
+Tribuna
+Linea aperta
+Viaggi
+Viaggi
+Svago
+Tempo Libero
+Jazz
+Musica Jazz
+Country
+Musica Country
+M Naz.
+Musica Nazionale
+M retro
+Musica retro
+Folk
+Musica Folk
+Documen.
+Documentari
+TEST
+TEST
+Allarme!
+Allarme !
+Lista degli album
+Lista dei brani
+Brano
+Titolo sconosciuto
+ALB
+Vuoto
+Copia in corso...
+Jukebox
+Playlist
+Generi
+Artisti
+Album
+Playlist
+Podcast
+Tutti gli artisti
+Tutti gli album
+Tutti i brani
+Nessuna informazione
+Partizione
+Sconosciuto
+BT STREAMING
+Libri audio
+Tutti i generi
+zero
+uno
+dieci
+undici
+dodici
+tredici
+quattordici
+quindici
+sedici
+diciassette
+diciotto
+diciannove
+due
+venti
+tre
+quattro
+cinque
+sei
+sette
+otto
+nove
+rubrica
+climatizzatore
+audio
+ricerca automatica
+chiama
+annulla
+lettore cd
+caricatore cd
+cancella
+cancella
+destinazione
+componi
+disco numero
+mostra
+directory
+guidami verso
+aiuto
+iPod
+jukebox
+lista
+mappa
+memoria
+messaggi
+navigatore
+avanti
+disco successivo
+avanti
+traccia successiva
+no
+numero
+telefono
+più
+posizione
+indietro
+disco precedente
+indietro
+traccia precedente
+radio
+random
+leggi
+richiama
+ripeti
+riprendi
+percorso
+salva
+scan
+assistenza
+vedere
+segreteria telefonica
+stop
+ferma
+traccia numero
+info traffico
+computer di bordo
+USB
+veicolo
+cosa posso dire ?
+sì
+ingrandisci
+riduci
+*garbage
+
+Nome riconosciuto
+Comandi vocali
+
+Non riconosciuto
+Vicino :
+---
+controlli velocità
+aree pericolose
+Nome
+Français
+English
+English US
+Italiano
+Español
+Portuguès
+Deutsch
+Nederlands
+Türkçe
+Polski
+中文
+Русский
+Português do Brasil
+Čeština
+Hrvatski
+Magyar
+Voce maschile
+Voce femminile
+aggiornato
+mn
+Preparazione
+Manutenzione in corso
+Consultare il proprio concessionario
+Inserire il CD di navigazione
+Inserire il CD di aggiornamento
+Temperatura Hard Disk troppo elevata
+Riavvio sistema...
+Chiamante sconosciuto
+Conference call
+Non classificato
+Acquisizione segnale
+Errore antenna
+Aggiornamento canali
+Chiamare SIRIUS
+per abbonarsi
+Canale non valido
+Nessuna categoria
+Errore comunicazione
+Aggiornamento software
+Nessun messaggio TMC
+Nessuna ultima destinazione
+Nessun contatto
+Nessun numero
+Nessuna stazione
+Elenco non disponibile
+Nessun supporto media disponibile
+Elenco vuoto
+chiama
+guidami verso

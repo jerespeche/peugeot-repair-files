@@ -1,0 +1,7 @@
+; Language Configurator File for Loquendo TTS
+
+"Description"	=	"Portuguese language"
+"BaseLanguage"	=	"PortuguesePt"
+"LanguagePath"	=	"languages/Portuguese"
+;"SpecialLexicon[0]"	=	""
+"Built-in"	=	"Yes"

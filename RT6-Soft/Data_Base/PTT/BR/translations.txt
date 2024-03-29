@@ -1,0 +1,346 @@
+ajuste o volume da síntese vocal
+chamada em curso
+a 10 jardas
+a 20 jardas
+a 30 jardas
+a 40 jardas
+a 50 jardas
+a 60 jardas
+a 70 jardas
+a 80 jardas
+a 90 jardas
+a 100 jardas
+a 150 jardas
+a 200 jardas
+a 250 jardas
+a 300 jardas
+a 350 jardas
+a 400 jardas
+a 500 jardas
+a 600 jardas
+a 800 jardas
+a 10 metros
+a 20 metros
+a 30 metros
+a 40 metros
+a 50 metros
+a 60 metros
+a 70 metros
+a 80 metros
+a 90 metros
+a 100 metros
+a 150 metros
+a 200 metros
+a 250 metros
+a 300 metros
+a 350 metros
+a 400 metros
+a 500 metros
+a 600 metros
+a 800 metros
+a 1 quilómetro
+a 1,2 quilômetros
+a 1,4 quilômetros
+a 1,6 quilômetros
+a 1,8 quilômetros
+a 2 quilômetros
+a 2,2 quilômetros
+a 1 milha
+a 1,2 milha
+a 1,4 milha
+a 1,6 milha
+a 1,8 milha
+a 2 milhas
+a 2,2 milhas
+tome a primeira saída
+tome a segunda saída
+tome a terceira saída
+tome a quarta saída
+tome a quinta saída
+tome a sexta saída
+tome a sétima saída
+tome a oitava saída
+tome a nona saída
+tome a décima saída
+tome a décima primeira saída
+tome a décima segunda saída
+tome a décima terceira saída
+tome a décima quarta saída
+tome a décima quinta saída
+depois da ponte
+depois do túnel
+chegou.
+para a autoestrada
+no fim da rua
+siga a direção indicada
+dê meia volta
+na faixa lateral
+na faixa central
+chegada ao destino
+para o embarque
+na bifurcação
+depois
+etapa terminada
+saída
+para a estação
+continue nesta estrada
+para o estacionamento
+na ponte
+coloque-se na faixa lateral
+coloque-se na faixa central
+coloque-se à sua direita
+coloque-se à sua esquerda
+coloque-se à sua direita
+coloque-se à sua esquerda
+próxima saída
+encontra-se próximo do destino
+mantenha-se à direita
+mantenha-se à direita
+mantenha-se no centro
+na rotatória
+se possível
+vire à direita
+vire à esquerda
+seguir em frente
+no túnel
+chamada para
+em curso
+rótulo gravado corretamente
+rótulo não está associado a um endereço
+rótulo não está associado a um telefone
+pasta vazia
+rótulo não pode ser gravado
+pronuncie o rótulo agora
+primeira gravação efetuada corretamente, confirme a gravação agora
+navegação para
+ativado
+como?
+fim do reconhecimento
+Nenhum
+Não nefinido
+Infos
+Informações
+Loja
+Loja
+Serviços
+Info-Service
+Esporte
+Esporte
+Educativo
+Educativo
+Ficção
+Ficção
+Cultura
+Cultura
+Ciências
+Ciências
+Diversos
+Diversão
+M Pop
+Música Pop
+M Rock
+Música Rock
+Canções
+Canções
+M Clas Leve
+Clássica Leve
+Clássica Leve
+Música Clássica
+Outra M
+Outra Música
+Metereologia
+Metereologia
+Economia
+Economia
+Crianças
+Crianças
+Sociedade
+Sociedade
+Religião
+Religião
+Fórum
+Linha aberta
+Viagens
+Viagens
+Lazer
+Lazer
+Jazz
+Jazz
+Country
+Country
+Canç País
+Canções do País
+Retrô
+Música Retrô
+Folclore
+Folclore
+Documento
+Documentária
+Teste
+Teste
+Alerta !
+Alerta !
+Lista de Álbuns
+Faixas do CD
+Faixa
+Título não informado
+ALB
+Vazio
+Cópia em curso...
+Jukebox
+Playlist
+Gêneros
+Artistas
+Álbuns
+Playlists
+Podcasts
+Todos Artistas
+Todos Álbuns
+Todas Faixas
+Nenhuma informação
+Partição
+Desconhecido
+BT STREAMING
+Audio books
+Todos os gêneros
+zero
+um
+dez
+onze
+doze
+treze
+quatorze
+quinze
+dezesseis
+dezessete
+dezoito
+dezenove
+dois
+vinte
+três
+quatro
+cinco
+seis
+sete
+oito
+nove
+repertório
+climatização
+audio
+audiostore
+chamar
+anular
+leitor de cd
+cd player
+corrigir
+apagar
+destino atingido
+compor
+disco número
+abrir
+repertório
+conduzir para
+ajuda
+ipod
+jukebox
+lista
+mapa
+memória
+mensagem
+navegação para
+seguinte
+disco seguinte
+seguinte
+faixa seguinte
+não
+número
+telefone
+mais
+posição
+anterior
+disco anterior
+anterior
+faixa anterior
+rádio
+execução aleatória
+ler
+último número
+repetir
+retomar
+percurso
+memorizar
+scan
+serviço
+ver
+secretária eletrônica
+stop
+parar
+faixa número
+info-tráfego
+computador de bordo
+USB
+veículo
+o que posso dizer?
+sim
+mais zoom
+menos zoom
+lixo
+inicial
+contato reconhecido
+comandos vocais
+vazio
+palavra não reconhecida
+próximo
+---
+radares
+Áreas perigosas
+rótulo
+Français
+English
+English US
+Italiano
+Español
+Portuguès
+Deutsch
+Nederlands
+Türkçe
+Polski
+中文
+Русский
+Português do Brasil
+Čeština
+Hrvatski
+Magyar
+Voz masculina
+Voz feminina
+em dia
+min
+Preparação
+Manutenção em curso
+Consulte sua concessionária
+Insira o CD de navegação
+Insira o CD de atualização
+Temperatura do disco rígido muito elevada
+Reinicialização do sistema...
+Contato desconhecido
+Fone-Conferência
+não classificados
+Aquisição de sinal
+Problema de antena
+Atualização dos canais
+Ligue para SIRIUS
+Para se inscrever
+Canal inválido
+Sem categoria
+Erro de comunicação
+Atualização do software
+Nenhuma mensagem TMC
+Sem último destino
+Nenhum contato
+Nenhum número
+Nenhuma estação
+Lista não-disponível
+Nenhuma fonte sonora disponível
+Lista vazia
+chamar
+conduzir para

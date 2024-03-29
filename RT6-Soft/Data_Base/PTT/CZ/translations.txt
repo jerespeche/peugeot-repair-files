@@ -1,0 +1,346 @@
+Nastavte hlasitost syntezátoru řeči
+Hovor zahájen. Uvolněte tlačítko
+za 10 yardů
+za 20 yardů
+za 30 yardů
+za 40 yardů
+za 50 yardů
+za 60 yardů
+za 70 yardů
+za 80 yardů
+za 90 yardů
+za 100 yardů
+za 150 yardů
+za 200 yardů
+za 250 yardů
+za 300 yardů
+za 350 yardů
+za 400 yardů
+za 500 yardů
+za 600 yardů
+za 800 yardů
+za 10 metrů
+za 20 metrů
+za 30 metrů
+za 40 metrů
+za 50 metrů
+za 60 metrů
+za 70 metrů
+za 80 metrů
+za 90 metrů
+za 100 metrů
+za 150 metrů
+za 200 metrů
+za 250 metrů
+za 300 metrů
+za 350 metrů
+za 400 metrů
+za 500 metrů
+za 600 metrů
+za 800 metrů
+za 1 kilometr
+za 1,2 kilometru
+za 1,4 kilometru
+za 1,6 kilometru
+za 1,8 kilometru
+za 2 kilometry
+za 2,2 kilometru
+za 1 míli
+za 1,2 míle
+za 1,4 míle
+za 1,6 míle
+za 1,8 míle
+za 2 míle
+za 2,2 míle
+použijte první výjezd
+použijte druhý výjezd
+použijte třetí výjezd
+použijte čtvrtý výjezd
+použijte pátý výjezd
+použijte šestý výjezd
+použijte sedmý výjezd
+použijte osmý výjezd
+použijte devátý výjezd
+použijte desátý výjezd
+použijte jedenáctý výjezd
+použijte dvanáctý výjezd
+použijte třináctý výjezd
+použijte čtrnáctý výjezd
+použijte patnáctý výjezd
+za mostem
+za tunelem
+jste na místě
+směr dálnice
+na konci ulice
+sledujte ukazatel směru
+otočte se o 180 stupňů
+na souběžnou silnici
+do středního pruhu
+jste v cílovém místě
+k nalodění
+na křižovatce
+potom
+naplánovaný bod trasy dosažen
+výjezd
+k vlakovému nádraží
+pokračujte po této silnici
+k parkovišti
+na most
+přejeďte na souběžnou silnici
+vjeďte do středního pruhu
+odbočte vpravo
+odbočte vlevo
+použijte výjezd vpravo
+použijte výjezd vlevo
+příští výjezd
+jste blízko cílového místa
+zůstaňte vpravo
+zůstaňte vlevo
+zůstaňte ve středním pruhu
+na kruhový objezd
+pokud je to možné
+odbočte vpravo
+odbočte vlevo
+pokračujte rovně
+do tunelu
+volání na číslo
+probíhá
+hlasový povel byl správně zaznamenán
+k tomuto kontaktu není přiřazena adresa
+k tomuto kontaktu není přiřazeno telefonní číslo
+seznam je prázdný
+hlasový povel nelze uložit
+nyní vyslovte jméno
+první záznam proběhl správně, nyní povel zopakujte
+navádět k
+aktivováno
+Zopakujte povel, prosím
+konec rozpoznávání hlasových povelů
+Nedefinováno
+Nedefinováno
+Zprávy
+Zprávy
+Běžné udál.
+Běžné události
+Infoservis
+Infoservis
+Sport
+Sport
+Vzděl. p
+Vzdělávací pořady
+Dram. p
+Dramatické pořady
+Kultura
+Kultura
+Věda
+Věda
+Různé
+Různé
+Pop
+Hudba pop
+Rock
+Hudba rock
+Střed. proud
+Hudba střední proud
+Lehká klas.
+Lehká klasika
+Vážná h
+Vážná hudba
+Ostatní h
+Ostatní hudba
+Počasí
+Počasí
+Ekonomika
+Ekonomika
+Děti
+Děti
+Společnost
+Společnost
+Náboženství
+Náboženství
+Vol. do rádia
+Volání posluchačů do rádia
+Cestování
+Cestování
+Volný čas
+Volný čas & Hobby
+Jazz
+Hudba jazz
+Country
+Hudba country
+Lidová h
+Lidová hudba
+Oldies
+Hudba oldies
+Folklorní h
+Folklorní hudba
+Dokument. p
+Dokumentární pořady
+TEST
+TEST
+Výstraha!
+Výstraha!
+Seznam alb
+Seznam skladeb
+Skladba
+Neznámá skladba
+ALB
+Prázdný
+Probíhá kopírování
+Jukebox
+Playlist
+Žánry
+Umělci
+Alba
+Playlisty
+Podcasty
+Všichni umělci
+Všechna alba
+Všechny skladby
+Žádná informace
+Oddíl
+Neznámý
+BT STREAMING
+Audio knihy
+Všechny žánry
+nula
+jedna
+deset
+jedenáct
+dvanáct
+třináct
+čtrnáct
+patnáct
+šestnáct
+sedmnáct
+osmnáct
+devatenáct
+dva
+dvacet
+tři
+čtyři
+pět
+šest
+sedm
+osm
+devět
+seznam
+klimatizace
+audio
+automatické uložení stanic
+zavolat
+zrušit
+cd přehrávač
+cd měnič
+upravit
+odstranit
+cílové místo
+vytočit číslo
+cd číslo
+zobrazit
+adresář
+navádět k
+nápověda
+iPod
+jukebox
+seznam
+mapa
+předvolba
+hlášení
+navigace
+následující
+následující cd
+následující
+následující skladba
+ne
+číslo
+telefon
+plus
+poloha
+předcházející
+předcházející cd
+předcházející
+předcházející skladba
+rádio
+přehrávání v náhodném pořadí
+přehrát
+znovu vytočit
+opakovat
+pokračovat
+trasa
+uložit
+prohledávat
+servis
+zobrazit
+hlasová schránka
+stop
+ukončit
+skladba číslo
+dopravní informace
+palubní počítač
+USB
+vozidlo
+co mohu říci?
+ano
+zvětšit
+zmenšit
+odpad
+
+Jméno rozpoznáno
+Hlasové povely
+
+Slovo nerozpoznáno
+blízko:
+---
+rychlostní radary
+nebezpečné zóny
+Jméno
+Français
+English
+English US
+Italiano
+Español
+Portuguès
+Deutsch
+Nederlands
+Türkçe
+Polski
+中文
+Русский
+Português do Brasil
+Čeština
+Hrvatski
+Magyar
+Mužský hlas
+Ženský hlas
+aktuální
+min
+Příprava
+Probíhá údržba
+Kontaktujte vašeho prodejce
+Vložte CD disk navigace
+Vložte aktualizační CD
+Teplota pevného disku je příliš vysoká
+Restartování systému
+Neznámý volající
+Konferenční hovor
+Nezařazené
+Příjem signálu
+Chyba v anténě
+Aktualizace kanálů
+Kontaktujte SIRIUS
+pro přihlášení
+Neplatný kanál
+Žádná kategorie
+Chyba v komunikaci
+Aktualizace software
+Žádná zpráva TMC
+Žádné poslední cílové místo
+Žádný kontakt
+Žádné číslo
+Žádná stanice
+Seznam není k dispozici
+Žádné zdrojové médium není k dispozici
+Prázdný seznam
+volat
+navádět k

@@ -1,0 +1,6 @@
+; Language Configurator File for Loquendo TTS
+
+"Description"		=	"Italian language"
+"BaseLanguage"		=	"Italian"
+"LanguagePath"		=	"languages/Italian"
+"Built-in"		=	"Yes"

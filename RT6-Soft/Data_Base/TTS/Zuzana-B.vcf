@@ -1,0 +1,8 @@
+; Voice Configurator File for Loquendo TTS
+
+"Description" = "Czech female voice"
+"BaseVoice" = "Zuzana"
+"VoicePath" = "voices/Zuzana"
+"Built-in" = "Yes"
+"VocalDBName[0]" = "Dummy"
+"VocalAddOn[0]" = "ZuzanaMM"

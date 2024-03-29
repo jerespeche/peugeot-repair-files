@@ -1,0 +1,8 @@
+; LTTSComponentVersion=7.0.0
+; Language descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"Czech generic descriptor file"
+"Library"		=	"LTTS7Czech, Czech"
+"Language"		=	"Czech,cs,cs-CZ,CZ"
+"WinLangid"		=	"1029"
+"DefaultVariant"  	= 	"yes"

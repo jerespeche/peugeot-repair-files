@@ -1,0 +1,8 @@
+; Voice Configurator File for Loquendo TTS
+
+"Description" = "Polish female voice"
+"BaseVoice" = "Zosia"
+"VoicePath" = "voices/Zosia"
+"Built-in" = "Yes"
+"VocalDBName[0]" = "Dummy"
+"VocalAddOn[0]" = "ZosiaMM"

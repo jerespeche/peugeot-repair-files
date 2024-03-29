@@ -1,0 +1,8 @@
+; Language Configurator File for Loquendo TTS
+
+"Description"		=	"Dutch language"
+"BaseLanguage"		=	"Dutch"
+"LanguagePath"		=	"languages/Dutch"
+;"SpecialLexicon[0]"	=	""
+"Built-in"		=	"Yes"
+

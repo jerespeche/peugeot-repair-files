@@ -1,0 +1,9 @@
+; LTTSComponentVersion=7.3.0
+; Language descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"Russian generic descriptor file"
+"Library"		=	"LTTS7Russian, Russian"
+"Language"		=	"Russian,ru-RU,ru"
+"WinLangid"		=	"1049"
+"DefaultVariant"  	= 	"yes"
+"Lexicon"		= 	"Russian.lex"

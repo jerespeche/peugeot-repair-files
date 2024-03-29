@@ -1,0 +1,8 @@
+; Voice Configurator File for Loquendo TTS
+
+"Description" = "Chinese female voice"
+"BaseVoice" = "Lisheng"
+"VoicePath" = "voices/Lisheng"
+"Built-in" = "Yes"
+"VocalDBName[0]" = "Dummy"
+"VocalAddOn[0]" = "LishengMM"

@@ -1,0 +1,346 @@
+podesite glasnoću umjetnog glasa
+poziv u tijeku. Otpustite
+za 10 jardi
+za 20 jardi
+za 30 jardi
+za 40 jardi
+za 50 jardi
+za 60 jardi
+za 70 jardi
+za 80 jardi
+za 90 jardi
+za 100 jardi
+za 150 jardi
+za 200 jardi
+za 250 jardi
+za 300 jardi
+za 350 jardi
+za 400 jardi
+za 500 jardi
+za 600 jardi
+za 800 jardi
+za 10 metara
+za 20 metara
+za 30 metara
+za 40 metara
+za 50 metara
+za 60 metara
+za 70 metara
+za 80 metara
+za 90 metara
+za 100 metara
+za 150 metara
+za 200 metara
+za 250 metara
+za 300 metara
+za 350 metara
+za 400 metara
+za 500 metara
+za 600 metara
+za 800 metara
+za 1 kilometar
+za 1,2 kilometra
+za 1,4 kilometra
+za 1,6 kilometara
+za 1,8 kilometara
+za 2 kilometra
+za 2,2 kilometra
+za 1 milju
+za 1,2 milje
+za 1,4 milje
+za 1,6 milja
+za 1,8 milja
+za 2 milje
+za 2,2  milje
+izaći na prvom izlazu
+izaći na drugom izlazu
+izaći na trećem izlazu
+izaći na četrvrtom izlazu
+izaći na petom izlazu
+izaći na šestom izlazu
+izaći na sedmom izlazu
+izaći na osmom izlazu
+izaći na devetom izlazu
+izaći na desetom izlazu
+izaći na jedanaestom izlazu
+izaći na dvanaestom izlazu
+izaći na trinaestom izlazu
+izaći na četrnaestom izlazu
+izaći na petnaestom izlazu
+nakon mosta
+nakon tunela
+stigli ste
+za autocestu
+na kraju ulice
+slijedite prikazani smjer
+polukružno se okrenuti
+na paralelnoj cesti
+na srednjem traku
+stigli ste na odredište
+za ukrcaj
+na raskrižju
+zatim
+stigli ste na etapu
+izlaz
+za kolodvor
+nastavite vožnju na ovoj cesti
+za parkiralište
+na mostu
+prijeđite na paralelenu cestu
+prijeđite na srednji trak
+skrenite desno
+skrenite lijevo
+skrenite desno
+skrenite lijevo
+sljedeći izlaz
+nalazite se blizu odredišta
+držite se desno
+držite se lijevo
+ostanite u sredini
+na kružnom toku
+ako je moguće
+skrenuti desno
+skrenuti lijevo
+nastaviti ravno
+u tunelu
+nazivanje
+u tijeku
+ime je ispravno spremljeno
+ovom imenu nije pridružena adresa
+ovom imenu nije pridružen telefonski broj
+imenik je prazan
+ime nije spremljeno
+sada izgovorite ime
+prvo spremanje je ispravno, sada potvrdite ime
+voziti prema
+pokrenuto
+molim?
+kraj prepoznavanja govora
+Ništa
+Neodređeno
+Vijesti
+Vijesti
+Info
+Magazin
+Usluge
+Info Usluge
+Sport
+Sport
+Obraz.
+Obrazovanje
+Drama
+Drama
+Kultura
+Kultura
+Znanost
+Znanost
+Razno
+Zabava
+Pop
+Pop glazba
+Rock
+Rock glazba
+Šansone
+Šansone
+Lak. Klas.
+Laka klasika
+Klasika
+Klasična glazba
+Ostala gl
+Ostala glazba
+Prognoza
+Vremenska prognoza
+Gospodarstvo
+Gospodarstvo
+Djeca
+Djeca
+Društvo
+Društvo
+Relig.
+Religija
+Forum
+Otvorena linija
+Putovanja
+Putovanja
+Razonoda
+Slobodno vrijeme
+Jazz
+Jazz glazba
+Country
+Country glazba
+Domaća gl
+Domaća glazba
+Retro gl
+Retro glazba
+Folk
+Folk glazba
+Dokumen.
+Documentarne emisije
+TEST
+TEST
+Izv. vijesti
+Izvanredne vijesti
+Popis albuma
+Popis pjesama
+Pjesma
+Nepoznat naslov
+ALB
+Prazan
+Kopiranje u tijeku...
+Džuboks
+Playlist
+Žanrovi
+Izvođači
+Albumi
+Playlist
+Podcast
+Svi izvođači
+Svi albumi
+Sve pjesme
+Nema informacija
+Particija
+Nepoznato
+BT STREAMING
+Audio knjige
+Svi žanrovi
+nula
+jedan
+deset
+jedanaest
+dvanaest
+trinaest
+četrnaest
+petnaest
+šesnaest
+sedamnaest
+osamnaest
+devetnaest
+dva
+dvadeset
+tri
+četiri
+pet
+šest
+sedam
+osam
+devet
+imenik
+klima uređaj
+audio
+automatsko memoriranje
+nazvati
+poništiti
+cd uređaj
+cd izmjenjivač
+ispraviti
+obrisati
+odredište
+birati
+cd broj
+prikazati
+mapa
+navođenje
+pomoć
+iPod
+džuboks
+popis
+karta
+memorija
+poruka
+navigacija
+naprijed
+slijedeći disk
+naprijed
+sljedeća pjesma
+ne
+broj
+telefon
+plus
+položaj
+natrag
+prethodni disk
+prethodni
+prethodna pjesma
+radio
+nasumični redoslijed
+svirati
+ponovno nazvati
+ponoviti
+nastaviti
+ruta
+memorirati
+traženje
+servis
+vidjeti
+govorna pošta
+stop
+prekinuti
+pjesma broj
+informacije o prometu
+putno računalo
+USB
+vozilo
+što mogu reći?
+da
+povećati
+smanjiti
+*obrisano
+
+Prepoznata naredba
+Glasovne naredbe
+
+Neprepoznata riječ
+U blizini:
+---
+radari
+opasna mjesta
+Ime
+Français
+English
+English US
+Italiano
+Español
+Portuguès
+Deutsch
+Nederlands
+Türkçe
+Polski
+中文
+Русский
+Português do Brasil
+Čeština
+Hrvatski
+Magyar
+Muški glas
+Ženski glas
+ažurirano
+min
+Priprema
+Održavanje u tijeku
+Obratite se svojem distributeru
+Umetnuti CD za navigaciju
+Umetnuti CD za ažuriranje
+Previsoka temperatura tvrdog diska
+Ponovno pokretanje sustava...
+Poziv s nepoznatog broja
+Konferencijski poziv
+Nerazvrstani
+Primanje signala
+Greška antene
+Ažuriranje kanala
+Nazovite SIRIUS
+za pretplatu
+Nevaljan kanal
+Nema kategorije
+Greška komunikacije
+Ažuriranje softvera
+Nema TMC poruka
+Nema posljednjih odredišta
+Nema kontakata
+Nema brojeva
+Nema stanica
+Popis nije dostupan
+Nema dostupnog medija
+Prazan popis
+nazvati
+voziti do

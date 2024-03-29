@@ -1,0 +1,13 @@
+; LTTSComponentVersion=7.3.1
+; Voice descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"Brazilian female voice"
+"Library"		=	"LTTS7Fernanda, Fernanda"
+"BaseSpeed"		=	"128"
+"BasePitch"		=	"180"
+"Gender"		=	"Female"
+"Age"			=	"30"
+"GildedTTS"		=	"yes"
+"MotherTongue"		=	"PortugueseBr"
+"MotherTongueAliases"	=	"PortugueseBr,pt-BR,BR,Brazilian,pt"
+"DemoSentence"		=	"Meu nome é Fernanda: sou uma voz feminina de Loquendo, e a minha língua nativa é o português do Brasil"

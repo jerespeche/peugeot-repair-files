@@ -1,0 +1,13 @@
+; LTTSComponentVersion=7.1.0
+; Voice descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"French male voice"
+"Library"		=	"LTTS7Bernard, Bernard"
+"BaseSpeed"		=	"128"
+"BasePitch"		=	"95"
+"Gender"		=	"Male"
+"Age"			=	"45"
+"GildedTTS"		=	"yes"
+"MotherTongue" 		= 	"French"
+"MotherTongueAliases"	=	"French,fr-FR,fr"
+"DemoSentence"		=	"Mon nom est Bernard, je suis une voix masculine de Loquendo, et ma langue maternelle est le français"

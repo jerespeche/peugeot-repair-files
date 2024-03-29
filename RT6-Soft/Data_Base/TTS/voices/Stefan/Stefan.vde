@@ -1,0 +1,13 @@
+; LTTSComponentVersion=7.1.0
+; Voice descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"German male voice"
+"Library"		=	"LTTS7Stefan, Stefan"
+"BaseSpeed"		=	"128"
+"BasePitch"		=	"95"
+"Gender"		=	"Male"
+"Age"			=	"29"
+"GildedTTS"		=	"Yes"
+"MotherTongue" 		= 	"German"
+"MotherTongueAliases"	=	"German,de-DE,de"
+"DemoSentence"		=	"Mein Name ist Stefan. Ich bin die männliche Stimme von Loquendo und meine Muttersprache ist Deutsch."

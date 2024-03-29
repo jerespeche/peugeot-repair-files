@@ -1,0 +1,346 @@
+ajuste el volumen de la síntesis de voz
+llamada considerada. Espere
+a 10 yardas
+a 20 yardas
+a 30 yardas
+a 40 yardas
+a 50 yardas
+a 60 yardas
+a 70 yardas
+a 80 yardas
+a 90 yardas
+a 100 yardas
+a 150 yardas
+a 200 yardas
+a 250 yardas
+a 300 yardas
+a 350 yardas
+a 400 yardas
+a 500 yardas
+a 600 yardas
+a 800 yardas
+a 10 metros
+a 20 metros
+a 30 metros
+a 40 metros
+a 50 metros
+a 60 metros
+a 70 metros
+a 80 metros
+a 90 metros
+a 100 metros
+a 150 metros
+a 200 metros
+a 250 metros
+a 300 metros
+a 350 metros
+a 400 metros
+a 500 metros
+a 600 metros
+a 800 metros
+a 1 kilómetro
+a 1,2 kilómetros
+a 1,4 kilómetros
+a 1,6 kilómetros
+a 1,8 kilómetros
+a 2 kilómetros
+a 2,2 kilómetros
+a 1 milla
+a 1,2 milla
+a 1,4 milla
+a 1,6 milla
+a 1,8 milla
+a 2 millas
+a 2,2  millas
+tome la primera salida
+tome la segunda salida
+tome la tercera salida
+tome la cuarta salida
+tome la quinta salida
+tome la sexta salida
+tome la séptima salida
+tome la octava salida
+tome la novena salida
+tome la décima salida
+tome la undécima salida
+tome la duodécima salida
+tome la decimotercera salida
+tome la decimocuarta salida
+tome la decimoquinta salida
+después del puente
+después del túnel
+ya ha llegado
+por la autopista
+al final de la calle
+siga el rumbo indicado
+dé media vuelta
+en el lateral
+en el carril central
+destino alcanzado
+por el embarque
+en la bifurcación
+luego
+etapa alcanzada
+salida
+por la estación
+continúe por esta carretera
+por el aparcamiento
+en el puente
+desplácese por el lateral
+debe tomar el carril central
+tome a la derecha
+tome a la izquierda
+tome a la derecha
+tome a la izquierda
+próxima salida
+está cerca del destino
+manténgase a la derecha
+manténgase a la izquierda
+manténgase en el centro
+en la rotonda
+si es posible
+gire a la derecha
+gire a la izquierda
+siga recto
+por el túnel
+llamada hacia
+en curso
+el nombre se ha grabado correctamente
+este nombre no está asociado con una dirección
+este nombre no está asociado con un número de teléfono
+la agenda está vacía
+el nombre no ha podido grabarse
+pronuncie ahora el nombre
+la primera grabación es correcta; por favor, ahora confirme el nombre
+guiado hacia
+activado
+repita
+final del reconocimiento
+Ninguno
+Ninguno
+Noticias
+Noticias
+Magazine
+Magazine
+Info
+Información
+Deportes
+Deportes
+Educa
+Educación
+Drama
+Drama
+Cultura
+Cultura
+Ciencia
+Ciencia
+Varios
+Varios
+M Pop
+Música Pop
+M Rock
+Música Rock
+G éxitos
+Grandes éxitos
+M Ligera
+Música Ligera
+Clásica
+Música Clásica
+M Varia
+Música Varia
+Meteo
+Meteorología
+Economía
+Economía
+Infancia
+Infancia
+Sociedad
+Sociedad
+Religión
+Religión
+Opinión
+Opinión-Oyentes
+Viajes
+Viajes
+Ocio
+Ocio
+M Jazz
+Música Jazz
+Country
+Música Country
+Nacional
+Música Nacional
+M Ayer
+Música de Ayer
+M Folk
+Música Folk
+Docu
+Documental
+Prueba
+Prueba de Alarma
+Alarma
+¡ Alarma !
+Lista de Álbumes
+Lista de las pistas
+Pista
+Título desconocido
+ALB
+Vacío
+Copia en curso...
+Jukebox
+Playlist
+Géneros
+Artistas
+Álbumes
+Listas de reproducción
+Podcasts
+Todos los artistas
+Todos los álbumes
+Todas las pistas
+Sin información
+Partición
+Desconoc.
+BT STREAMING
+Audiolibros
+Todos los géneros
+cero
+uno
+diez
+once
+doce
+trece
+catorce
+quince
+dieciséis
+diecisiete
+dieciocho
+diecinueve
+dos
+veinte
+tres
+cuatro
+cinco
+seis
+siete
+ocho
+nueve
+agenda
+climatización
+audio
+guardar automáticamente
+llamar
+anular
+reproductor de cd
+cargador
+borrar
+borrar
+destino
+marcar
+cd número
+activar
+directorio
+guiar a
+ayuda
+iPod
+jukebox
+lista
+mapa
+memoria
+mensaje
+navegador
+siguiente
+cd siguiente
+siguiente
+canción siguiente
+no
+número
+teléfono
+más
+posición
+anterior
+cd anterior
+anterior
+canción anterior
+radio
+reproducción aleatoria
+leer
+volver a marcar
+repetir
+reiniciar
+ruta
+guardar
+escanear
+assistencia tecnica
+mostrar
+buzón de voz
+parar
+parar
+canción número
+información de tráfico
+ordenador de viaje
+USB
+vehículo
+qué puedo decir ?
+sí
+aumentar
+reducir
+*garbage
+
+Enunciado reconocido
+Ordenes vocales
+
+Palabra no reconocida
+Cercano :
+---
+Controles de velocidad
+Áreas peligrosas
+Enunciado
+Français
+English
+English US
+Italiano
+Español
+Portuguès
+Deutsch
+Nederlands
+Türkçe
+Polski
+中文
+Русский
+Português do Brasil
+Čeština
+Hrvatski
+Magyar
+Voz masculina
+Voz femenina
+actualizado
+mn
+Preparación
+Mantenimiento en curso
+Consulte con su concesionario
+Insertar CD de navegación
+Insertar CD de actualización
+Temperatura del disco duro muy alta
+El sistema se está reiniciando ...
+Número desconocido
+Conferencia
+Sin clasificar
+Buscar señal
+Error de antena
+Actualización de canales
+Llamar a SIRIUS
+para abonarse
+Canal no válido
+Ninguna categoría
+Error de comunicación
+Actualización de firmware
+Ningún mensaje TMC
+Ningún destino último
+Ningún contacto
+Ningún número
+Ninguna estación
+Lista no disponible
+Ningún medio origen disponible
+Lista vacía.
+llamar
+guiar hacia

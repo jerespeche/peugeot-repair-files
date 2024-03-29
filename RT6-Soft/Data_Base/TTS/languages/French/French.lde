@@ -1,0 +1,10 @@
+; LTTSComponentVersion=7.3.0
+; Language descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"French generic descriptor file"
+"Library"		=	"LTTS7French, French"
+"Language"		=	"French,fr,fr-FR"
+"WinLangid"		=	"1036"
+"LexicalDB[0]"		=	"French.dbe"
+"DefaultVariant"  	= 	"yes"
+"RegExp"		=	"French.rex"

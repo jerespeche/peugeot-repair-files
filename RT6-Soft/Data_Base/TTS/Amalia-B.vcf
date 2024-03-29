@@ -1,0 +1,8 @@
+; Voice Configurator File for Loquendo TTS
+
+"Description" = "Portuguese female voice"
+"BaseVoice" = "Amalia"
+"VoicePath" = "voices/Amalia"
+"Built-in" = "Yes"
+"VocalDBName[0]" = "Dummy"
+"VocalAddOn[0]" = "AmaliaMM"

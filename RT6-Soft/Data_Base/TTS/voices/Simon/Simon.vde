@@ -1,0 +1,13 @@
+; LTTSComponentVersion=7.1.0
+; Voice descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"British English male voice"
+"Library"		=	"LTTS7Simon, Simon"
+"BaseSpeed"		=	"128"
+"BasePitch"		=	"95"
+"Gender"		=	"Male"
+"Age"			=	"36"
+"GildedTTS"		=	"yes"
+"MotherTongue"		=	"EnglishGb"
+"MotherTongueAliases"	=	"EnglishGb,en-GB,GB,British,en,English"
+"DemoSentence"		=	"My name is Simon: I'm one of the Loquendo male voices, and my mother tongue is British English"

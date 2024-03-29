@@ -1,0 +1,13 @@
+; LTTSComponentVersion=7.1.0
+; Voice descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"Polish female voice"
+"Library"		=	"LTTS7Zosia, Zosia"
+"BaseSpeed"		=	"128"
+"BasePitch"		=	"140"
+"Gender"		=	"Female"
+"Age"			=	"31"
+"GildedTTS"		=	"yes"
+"MotherTongue" 		= 	"Polish"
+"MotherTongueAliases"	=	"Polish,pl-PL,pl"
+"DemoSentence"		=	"Mam na imiê Zosia: jestem g³osem ¿eñskim Loquendo, mój jêzyk to polski."

@@ -1,0 +1,12 @@
+; LTTSComponentVersion=7.0.0
+; Voice descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"Hungarian male voice"
+"Library"		=	"LTTS7HungarianMale, HungarianMale"
+"BaseSpeed"		=	"128"
+"BasePitch"		=	"125"
+"Gender"		=	"Male"
+"Age"			=	"30"
+"MotherTongue"		=	"Hungarian"
+"MotherTongueAliases"	=	"Hungarian,hu-HU,hu"
+"DemoSentence"		=	"HungarianMale"

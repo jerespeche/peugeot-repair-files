@@ -1,0 +1,12 @@
+; LTTSComponentVersion=7.3.0
+; Language descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"British English generic descriptor file"
+"Library"		=	"LTTS7English, English"
+"Language"		=	"English,en,en-GB,GB,British,EnglishGb"
+"WinLangid"		=	"2057"
+"GPR"			=	"EnglishGb.gpr"
+;"DefaultVariant"	=	"yes"
+"LexicalDB"		=	"EnglishGb.dbe"
+"Lexicon"		=	"EnglishGb.lex"
+;"ShortPauseLength"	=	"30"

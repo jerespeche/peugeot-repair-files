@@ -1,0 +1,13 @@
+; LTTSComponentVersion=7.3.0
+; Voice descriptor file for Loquendo TTS
+
+"BaseDescription"      =   "Russian female voice"
+"Library"              =   "LTTS7Olga, Olga"
+"BaseSpeed"            =   "128"
+"BasePitch"            =   "150"
+"Gender"               =   "Female"
+"Age"                  =   "35"
+"GildedTTS"           =   "yes"
+"MotherTongue"         =   "Russian"
+"MotherTongueAliases"  =   "Russian,ru-RU,ru"
+"DemoSentence"         =   "ћен€ зовут ќльга, € Ц женский голос компании Ћокуэндо, мой родной €зык Ц русский."

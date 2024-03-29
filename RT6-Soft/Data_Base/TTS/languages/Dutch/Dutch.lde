@@ -1,0 +1,11 @@
+; LTTSComponentVersion=7.3.0
+; Language descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"Dutch generic descriptor file"
+"Library"		=	"LTTS7Dutch, Dutch"
+"Language"		=	"Dutch,nl,nl-NL"
+"WinLangid"		=	"1043"
+"LexicalDB"		=	"Dutch.dbe"
+"DefaultVariant"  	= 	"yes"
+"GPR"			=	"Dutch.gpr"
+"RegExp"		=	"Dutch.rex"

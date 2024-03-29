@@ -1,0 +1,8 @@
+; Voice Configurator File for Loquendo TTS
+
+"Description" = "Hungarian female voice"
+"BaseVoice" = "Mariska"
+"VoicePath" = "voices/Mariska"
+"Built-in" = "Yes"
+"VocalDBName[0]" = "Dummy"
+"VocalAddOn[0]" = "MariskaMM"

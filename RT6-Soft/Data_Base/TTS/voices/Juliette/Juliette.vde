@@ -1,0 +1,13 @@
+; LTTSComponentVersion=7.1.0
+; Voice descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"French female voice"
+"Library"		=	"LTTS7Juliette, Juliette"
+"BaseSpeed"		=	"128"
+"BasePitch"		=	"170"
+"Gender"		=	"Female"
+"Age"			=	"23"
+"GildedTTS"		=	"yes"
+"MotherTongue" 		= 	"French"
+"MotherTongueAliases"	=	"French,fr-FR,fr"
+"DemoSentence"		=	"Mon nom est Juliette, je suis une voix féminine de Loquendo, et ma langue maternelle est le français"

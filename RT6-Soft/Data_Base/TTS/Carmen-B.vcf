@@ -1,0 +1,8 @@
+; Voice Configurator File for Loquendo TTS
+
+"Description" = "Castilian Spanish female voice"
+"BaseVoice" = "Carmen"
+"VoicePath" = "voices/Carmen"
+"Built-in" = "Yes"
+"VocalDBName[0]" = "Dummy"
+"VocalAddOn[0]" = "CarmenMM"

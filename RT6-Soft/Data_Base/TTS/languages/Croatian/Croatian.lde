@@ -1,0 +1,8 @@
+; LTTSComponentVersion=7.0.0
+; Language descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"Croatian generic descriptor file"
+"Library"		=	"LTTS7Croatian, Croatian"
+"Language"		=	"Croatian,hr,hr-HR"
+"WinLangid"		=	"1050"
+"DefaultVariant"  	= 	"yes"

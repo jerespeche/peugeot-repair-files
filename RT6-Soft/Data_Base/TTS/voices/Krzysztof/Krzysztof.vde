@@ -1,0 +1,13 @@
+; LTTSComponentVersion=7.1.0
+; Voice descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"Polish male voice"
+"Library"		=	"LTTS7Krzysztof, Krzysztof"
+"BaseSpeed"		=	"128"
+"BasePitch"		=	"105"
+"Gender"		=	"Male"
+"Age"			=	"31"
+"GildedTTS"		=	"yes"
+"MotherTongue" 		= 	"Polish"
+"MotherTongueAliases"	=	"Polish,pl-PL,pl"
+"DemoSentence"		=	"Mam na imiê Krzysztof: jestem g³osem mêskim Loquendo, mój jêzyk to polski."

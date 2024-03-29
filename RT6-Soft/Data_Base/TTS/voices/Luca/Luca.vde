@@ -1,0 +1,13 @@
+; LTTSComponentVersion=7.1.0
+; Voice descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"Italian male voice"
+"Library"		=	"LTTS7Luca, Luca"
+"BaseSpeed"		=	"128"
+"BasePitch"		=	"125"
+"Gender"		=	"Male"
+"Age"			=	"28"
+"GildedTTS"		=	"yes"
+"MotherTongue"		=	"Italian"
+"MotherTongueAliases"	=	"Italian,it-IT,it"
+"DemoSentence"		=	"Il mio nome è Luca: sono una voce maschile di Loquendo, e la mia madrelingua è l'italiano"

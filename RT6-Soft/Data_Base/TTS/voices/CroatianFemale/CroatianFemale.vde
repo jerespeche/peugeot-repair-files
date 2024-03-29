@@ -1,0 +1,12 @@
+; LTTSComponentVersion=7.0.0
+; Voice descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"Croatian female voice"
+"Library"		=	"LTTS7CroatianFemale, CroatianFemale"
+"BaseSpeed"		=	"128"
+"BasePitch"		=	"150"
+"Gender"		=	"Female"
+"Age"			=	"30"
+"MotherTongue"		=	"Croatian"
+"MotherTongueAliases"	=	"Croatian,hr-HR,hr"
+"DemoSentence"		=	"CroatianFemale"

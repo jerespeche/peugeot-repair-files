@@ -1,0 +1,14 @@
+; LTTSComponentVersion=7.3.0
+; Voice descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"Dutch male voice"
+"Library"		=	"LTTS7Willem, Willem"
+"BaseSpeed"		=	"128"
+"BasePitch"		=	"95"
+"Gender"		=	"Male"
+"Age"			=	"40"
+"GildedTTS"		=	"yes"
+"MotherTongue" 		= 	"Dutch"
+"MotherTongueAliases"	=	"Dutch,nl-NL,nl"
+"DemoSentence"		=	"Mijn naam is Willem: ik ben een van de mannelijke stemmen van Loquendo, en mijn moedertaal is Nederlands"
+

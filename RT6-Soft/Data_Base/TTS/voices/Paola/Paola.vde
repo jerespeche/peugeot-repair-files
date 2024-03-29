@@ -1,0 +1,13 @@
+; LTTSComponentVersion=7.1.1
+; Voice descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"Italian female voice"
+"Library"		=	"LTTS7Paola, Paola"
+"BaseSpeed"		=	"128"
+"BasePitch"		=	"170"
+"Gender"		=	"Female"
+"Age"			=	"24"
+"GildedTTS"		=	"yes"
+"MotherTongue"		=	"Italian"
+"MotherTongueAliases"	=	"Italian,it-IT,it"
+"DemoSentence"		=	"Il mio nome è Paola: sono una voce femminile di Loquendo, e la mia madrelingua è l'italiano."

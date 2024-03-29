@@ -1,0 +1,10 @@
+; LTTSComponentVersion=7.3.0
+; Language descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"Brazilian generic descriptor file"
+"Library"		=	"LTTS7Portuguese, Portuguese"
+"Language"		=	"PortugueseBr,pt-BR,BR,Brazilian,pt"
+"WinLangid"		=	"1046"
+"LexicalDB"		=	"PortugueseBr.dbe"
+;"DefaultVariant"	=	"yes"
+"Lexicon"		=	"Portuguese.lex"

@@ -1,0 +1,8 @@
+; Voice Configurator File for Loquendo TTS
+
+"Description" = "Brazilian male voice"
+"BaseVoice" = "Felipe"
+"VoicePath" = "voices/Felipe"
+"Built-in" = "Yes"
+"VocalDBName[0]" = "Dummy"
+"VocalAddOn[0]" = "FelipeMM"

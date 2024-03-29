@@ -1,0 +1,8 @@
+; Voice Configurator File for Loquendo TTS
+
+"Description" = "Turkish female voice"
+"BaseVoice" = "Selin"
+"VoicePath" = "voices/Selin"
+"Built-in" = "Yes"
+"VocalDBName[0]" = "Dummy"
+"VocalAddOn[0]" = "SelinMM"

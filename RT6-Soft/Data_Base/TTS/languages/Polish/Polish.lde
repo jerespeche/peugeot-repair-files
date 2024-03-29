@@ -1,0 +1,10 @@
+; LTTSComponentVersion=7.3.0
+; Language descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"Polish generic descriptor file"
+"Library"		=	"LTTS7Polish, Polish"
+"Language"		=	"Polish,pl,pl-PL"
+"WinLangid"		=	"1045"
+"LexicalDB"		=	"Polish.dbe"
+"DefaultVariant"  	= 	"yes"
+"RegExp"		=	"Polish.rex"

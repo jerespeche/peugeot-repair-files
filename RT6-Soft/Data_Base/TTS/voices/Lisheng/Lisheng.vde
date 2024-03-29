@@ -1,0 +1,12 @@
+; LTTSComponentVersion=7.1.0
+; Voice descriptor file for Loquendo TTS
+
+"BaseDescription"	=	"Chinese female voice"
+"Library"		=	"LTTS7Lisheng, Lisheng"
+"BaseSpeed"		=	"128"
+"BasePitch"		=	"180"
+"Gender"		=	"Female"
+"Age"			=	"25"
+"MotherTongue"		=	"Chinese"
+"MotherTongueAliases"	=	"Chinese,zh-CN,zh,Mandarin"
+"DemoSentence"		=	"wo3 jiao4 li4 sheng1, wo3 shi4 Loquendo de5 nv3sheng1 lu4yin1 yuan2, wo3de5 mu3yu3 shi4 han4yu3."

@@ -1,0 +1,7 @@
+; Language Configurator File for Loquendo TTS
+
+"Description"	=	"Castilian Spanish language"
+"BaseLanguage"	=	"SpanishEs"
+"LanguagePath"	=	"languages/Spanish"
+;"SpecialLexicon[0]"	=	""
+"Built-in"	=	"Yes"
